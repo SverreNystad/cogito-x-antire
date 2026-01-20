@@ -1,0 +1,472 @@
+<!-- image -->
+
+## 2026 Silver Outlook
+
+## A cresting wave?
+
+- ◆ Silver buoyed by gold, safe-haven demand amid uncertainty, but tightness drives prices to unsustainable levels amid high volatility
+- ◆ Industrial demand weakening, as is jewelry; mine, scrap supply growing; coin &amp; bar demand may rise; institutional demand robust
+- ◆ We raise our average price forecasts across the board to USD68.25/oz in 2026 and USD57.00/oz in 2027; soft USD, mild production / consumption deficits can provide underlying support
+
+Outlook: Silver charged to a record high USD83.60 in December 2025 amid thin conditions before retracing. Gold prices are providing key support but are not the prime driver of silver as in past rallies. Tightness in the London market and extreme backwardation on the CME futures markets underscore the near-term shortage of deliverable silver. This may not be resolved until later in 2026. While we regard prices as fundamentally overvalued, we expect conditions to remain volatile, with likely upside spikes, until near-term tightness is alleviated. Industrial demand is weakening as pricerelated resistance lowers purchases. Large bar demand should rise, based on institutional purchases. Coin and small bar demand may also recover but at a modest pace as high prices crimp demand. Jewelry demand will be especially weak, though aided by crossover buying from gold. Exchange-traded funds are accumulating at a robust pace and may continue to do so. India and China imports are curbed by high prices. The likelihood of a soft USD, as forecast by HSBC FX Research, can support silver on downswings. Debate over future Fed rate cuts, Fed independence, and geopolitical risks are price supportive.
+
+Supply rising: Global silver mine output continues to rise, aided by primary and byproduct output. Lower ore grades and mine closures will be offset by new projects and facilities expansion. Greater base metals and gold production will boost byproduct output. Mining costs remain well below prices. Prices are an incentive to raise output wherever possible. Recycling levels are rising notably as high prices, as well as greater electronic, environmental, and other recovery efforts, boost supply. Hedge supply is also rising.
+
+Silver balances and firm 2025 prices: Based on our supply/demand model and data from The Silver Institute's 2025 Interim Report, silver ran a 230m ounce (moz) deficit. We look for the deficit to narrow to 140moz in 2026 and 59moz in 2027. Moderate deficits help to frame our outlook for historically high prices in 2026 but also help to explain declines in 2027. Deficits do not explain the prolonged bull market which has been augmented by locational shortages of deliverable silver. Above-ground stocks and recycling may eventually help cap the rally and weigh on prices longer term.
+
+## HSBC average silver price forecasts
+
+<!-- image -->
+
+|        | _______2026f________   | _______2026f________   | ______ 2027f _______   | ______ 2027f _______   | _______2028f _______   | _______2028f _______   | 2029f________   | 2029f________   |
+|--------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|-----------------|-----------------|
+| USD/oz | Old                    | New                    | Old                    | New                    | Old                    | New                    | Old             | New             |
+| Silver | 44.50                  | 68.25                  | 40.00                  | 57.00                  | 38.00                  | 49.00                  | --              | 47.00           |
+
+Notes: Long term = five years. Year-end 2026 and 2027 forecasts for silver are USD62.00/oz and USD55.00/oz, respectively. Source: HSBC forecasts
+
+## Disclosures &amp; Disclaimer
+
+This report must be read with the disclosures and the analyst certifications in the Disclosure appendix, and with the Disclaimer, which forms part of it.
+
+Commodities Precious Metals
+
+Global
+
+James Steel Chief Precious Metals Analyst HSBC Securities (USA) Inc. james.steel@us.hsbc.com +1 646 867 5600
+
+<!-- image -->
+
+Issuer of report: HSBC Securities (USA) Inc.
+
+<!-- image -->
+
+Silver traded to record highs in 2025
+
+An acute liquidity squeeze supports gold
+
+The gold:silver ratio narrowed to 55:1
+
+## Executive summary
+
+## How did we get here and can high prices be sustained?
+
+2025 was the most bullish year for silver since 1979, when the market neared USD50/oz. Prices nearly tripled, rocketing from USD28.09/oz at the beginning of the year to more than USD83/oz by 29 December, before correcting sharply, then moving higher again as of writing. After breaking above USD50/oz on 9 October, the market charged higher, with the rally accelerating towards year-end in tight, highly volatile trading aggravated by thin conditions. There was a myriad of reasons for the sustained surge in prices, but the genesis of the rally dates back to tariff concerns in Q1 2025. The threat of tariffs on silver imports into the US triggered a powerful rally from February through March. In April, tariff-related price gains were wiped away in the midst of a general market selloff as silver was exempted from the tariffs. By that time, however, tens of millions of ounces of silver had shifted from mainly London LBMA warehouses and elsewhere, including Asian depositories, to New York as the exchange-for-physical (EFP) premium widened, in case refined silver became subject to tariffs. Only a portion of this silver has migrated back to London. Fresh tariff scares in July ignited another round of panicky buying and arrested further movement of silver back to London. Since then, London - the center of the global physical silver market - has remained historically tight. As tightness persisted in London and prices broke above USD50/oz in October, lease rates briefly surged to more than 200% and remain high as of writing. Further evidence of tightness is seen by near-record backwardation on the Chicago Mercantile Exchange (CME) futures markets. To varying degrees, these factors persist into 2026 and we expect will help to sustain historically high prices. That said, recent massive rallies followed by sharp retracement indicate high volatility but also an increasingly overstretched market.
+
+## The tighter the squeeze, the higher the price
+
+The acute liquidity squeeze in early October 2025 revisited the market in mid-December and continues to dominate market dynamics. Although possibly not quite as severe as in October, prices continue to surge. Lease rates remain historically high, denoting supply concerns, and the futures markets are still heavily backwardated. Silver was exempted from tariffs, yet its inclusion on the 2025 White House list of critical minerals has kept the market on edge, halting the migration of silver back to London and contributing to persistent market tightness. Silver's status as regards Section 232 critical minerals dependency was supposed to have been clarified in November but was delayed by the government shutdown and remains unresolved. This is contributing to a high degree of uncertainty, thereby aiding high silver prices. This may continue until silver's status under Section 232 is clarified.
+
+## Silver's golden wings
+
+While physical tightness and the shift in deliverable silver from London to New York on tariff and other concerns resulted in historic backwardation, rocketing lease rates, and high EFPs, they are only one facet of the rally. A bevvy of additional factors, notable among them high gold prices, is driving silver higher. This is a theme we repeated in recent outlooks, including Silver Outlook: Silver's golden chariot (8 August 2025) and Silver Update: Raising our forecasts on the gold bull wave (7 October 2025). Silver's rally is strongly linked to record-high gold prices. As a fellow but more dominant precious metal, gold exerts a strong gravitational pull on silver, and silver often follows gold movements - higher or lower - at a lag. This is based on our view that gains in gold attract ancillary buying in silver, possibly by investors who have not taken full advantage of the gold rally. Investment in the two metals tends to be the defining factor in setting the ratio, but gold almost always drives silver. This relationship is expressed by the gold:silver ratio. After hitting 87.4 on 7 January 2025, the ratio widened to a historical high of
+
+<!-- image -->
+
+High gold prices support silver demand
+
+A range of macroeconomic and geopolitical factors also support silver
+
+106.6 on 22 April, breaking the previous high of 105.1 in May 2020, in the wake of an unremitting gold rally which propelled silver up also but at a lag to gold. The ratio narrowed toward 83:1 by early October. Since then, while both metals have rallied, silver has notably outpaced gold and the ratio narrowed further to 57:1 by late December and more recently 55:1. This denotes that silver is less driven by gold and more by its own market dynamics. With the recent pullback, the ratio has widened back to 63:1. Silver is at the low end of the gold:silver range, which has generally moved between 50:1 and 80:1 for most of the past 30 years.
+
+High gold prices contribute to greater physical silver demand than would otherwise be the case. While reacting to high silver prices, Indian and other price-sensitive economies have registered better physical demand than might be expected. Much of the reason is high gold prices. Surging gold prices have turned price-sensitive buyers, including the massive bullion markets of India and China, to more competitively priced silver, especially for jewelry. While high silver prices have undoubtedly triggered demand destruction in traditional markets, price-related declines have been offset by crossover buying from consumers priced out of the gold market. This is also happening even in markets with greater purchasing power such as Western Europe and North America. This has buoyed silver jewelry and bar and coin demand beyond levels that would otherwise be the case. While physical demand in these categories is down, the important point is that demand has not fallen as sharply as would otherwise be the case, given record-high silver prices. Indian demand surged before the Diwali festival in October as silver benefited from high gold prices, but has since fallen away.
+
+A range of broad macroeconomic and geopolitical factors - not directly related to the impact of possible tariffs, Section 232, locational tightness in the silver market, or other factors germane to silver alone - are driving silver prices. We discuss these in more depth, but they include Fed rate cutting and monetary policy, as well as threats to central bank independence, USD levels, and economic and geopolitical uncertainty. On balance, we expect the global macroeconomic and geopolitical climate to play an important role in supporting silver prices.
+
+## 1. Quarterly silver correlations
+
+<!-- image -->
+
+Source: LSEG Datastream, HSBC
+
+The chart above shows silver's high correlation with gold, but also copper, and other commodities. This illustrates the strong industrial component in silver and the influence of industrial demand on prices. A rally in base metals has added further support as silver plays a dual role as an industrial as well as safe-haven asset. Copper prices notably played a role in aiding silver higher in 2025. The chart also shows the strong positive relationship with gold as discussed. We expect gold prices to trek higher in 2026 but possibly peak in 1H (see Gold Update: Raising our forecasts on a bull wave , 17 October 2025). Like gold, and for similar reasons, silver is inversely correlated with the USD over the longer term. HSBC FX Research's
+
+<!-- image -->
+
+We forecast a narrowing of the 2026 deficit to 140moz view for a softer USD in 2026 is among the reasons we look for continued strength, at least up to a point, in silver this year. Moderating physical demand and rising mine and recycling rates also factor into our expectations for positive prices in 1H, followed by a correction later in 2026.
+
+## And where are we going?
+
+We update our supply/demand model (exhibit 2), which considers 10 components of the physical market, including mine and recycling supply, industrial, photographic, jewelry, coin and bar, and ETF demand. Our historical data incorporate available figures from The Silver Institute's November update (13 November 2025) compiled by Metals Focus.
+
+We estimate a slightly narrower production/consumption deficit for 2026 of 140moz, from 230moz in 2025 according to The Silver Institute. This is based on greater mining and recycling as well as scrap supply, offset by rising investment and ETF demand. Industrial and jewelry demand are likely to decline in response to high prices. We forecast a further narrowing of the deficit to 59moz in 2027 as supply increases but as key elements of physical demand weaken, notably industrial demand. Investment demand, including ETF purchases, should also moderate. Much of the demand decline is price-related and could be halted on downswings. We expect underlying tightness in the silver market to unwind as the year unfolds and into 2027.
+
+Based on our expectation that, while fundamentally overvalued, the rally is not over, persistent near-term tightness may trigger frequent spikes higher. We expect a wide and volatile trading range for 2026. Silver prices will be aided by record-high gold and a host of macroeconomic and geopolitical factors. Reduced industrial demand and supply increases may begin to offset robust investment demand as the year progresses. Underlying tightness in silver will be addressed eventually, either by reduced demand or greater recycling. Clarification of Section 232 and a shift in stocks back to London from New York - which we think is likely as the year unfolds - will help address underlying tightness. But this may not measurably impact prices until later in 2026. Based on our expectation for high gold, strong investor demand, and volatile trading, we raise our average price forecasts to USD68.25/oz (from USD44.50/oz) for 2026, USD57.00/oz (from USD40.00/oz) for 2027, and USD49.00/oz (from USD38.00/oz) for 2028. We introduce a 2029 forecast of USD47.00/oz. Our average 2026 forecast conceals expectations of a wide USD88.00-58.00/oz range as we look for high levels of volatility and price declines in H2. Our end-2026 and end-2027 forecasts are USD62.00/oz and USD55.00/oz, respectively.
+
+## 2. Silver supply/demand model
+
+| (moz)                                   | 2018   | 2019   | 2020   | 2021   | 2022   | 2023   | 2024   | 2025   | 2026f   | 2027f   |
+|-----------------------------------------|--------|--------|--------|--------|--------|--------|--------|--------|---------|---------|
+| Mine production                         | 851    | 837    | 784    | 831    | 838    | 811    | 812    | 813    | 824     | 830     |
+| Government sales                        | 1      | 1      | 1      | 2      | 2      | 1      | 1      | 1      | 1       | 1       |
+| Old silver scrap                        | 156    | 162    | 164    | 181    | 191    | 184    | 194    | 197    | 206     | 210     |
+| Hedging                                 | -1     | 14     | 8      | -4     | -18    | -12    | -4     | 11     | 13      | 11      |
+| Total supply                            | 1,007  | 1,014  | 957    | 1,010  | 1,014  | 986    | 1,011  | 1,022  | 1,044   | 1,052   |
+| Fabrication                             |        |        |        |        |        |        |        |        |         |         |
+| Industrial and decorative               | 526    | 525    | 512    | 564    | 592    | 657    | 681    | 665    | 660     | 620     |
+| Photography                             | 31     | 31     | 27     | 28     | 28     | 27     | 26     | 24     | 24      | 24      |
+| Jewelry                                 | 203    | 202    | 151    | 182    | 235    | 203    | 209    | 199    | 184     | 175     |
+| Silverware                              | 67     | 61     | 31     | 41     | 74     | 55     | 54     | 48     | 45      | 42      |
+| Physical investment, coins, medals, bar | 166    | 187    | 208    | 284    | 338    | 244    | 191    | 182    | 201     | 210     |
+| Exchange traded funds                   | -8     | 90     | 282    | 14     | -138   | -48    | 17     | 134    | 70      | 40      |
+| Total fabrication                       | 976    | 1,006  | 929    | 1,099  | 1,267  | 1,186  | 1,161  | 1,118  | 1,114   | 1,071   |
+| Total demand                            | 968    | 1,096  | 1,211  | 1,113  | 1,129  | 1,138  | 1,178  | 1,252  | 1,184   | 1,111   |
+| Market balance                          | 31     | -82    | -254   | -89    | -115   | -200   | -167   | -230   | -140    | -59     |
+| Market balance ex- gov't stock sales    | 32     | -83    | -255   | -91    | -117   | -201   | -168   | -201   | -141    | -60     |
+| Price average (USD/oz)                  | 15.70  | 16.20  | 20.55  | 25.14  | 21.80  | 23.40  | 28.29  | 45.00  | 68.25   | 57.00   |
+
+Source: Silver Institute GFMS LSEG, HSBC forecasts
+
+<!-- image -->
+
+In addition to gold, silver is an accepted and tested safe haven
+
+Elevated risks are a powerfully bullish cocktail for silver
+
+Expectations of policy rate cuts have buoyed silver
+
+## Investment sentiment
+
+## Geopolitical risk and fiscal and policy uncertainty
+
+In addition to gold, silver is an accepted and tested safe haven. Elevated geopolitical risks almost always stimulate gold demand and - to a lesser degree - do the same to silver. Silver also has a historical role as an indicator of economic and geopolitical uncertainty and is an effective hedge against economic and geopolitical risks. Heightened geopolitical risks have undoubtedly played a key role in silver's ascent in recent years. Specific events including trade frictions, recent US intervention in Venezuela, discord in the Western alliance, Russian incursions into NATO airspace, lack of progress over Ukraine peace negotiations, and US-Sino rivalry in East Asia and elsewhere have acted to press gold and silver prices higher. The global geopolitical risk thermometer compiled by Federal Reserve economist Dario Caldara and Matteo Iacoviello is elevated, with recent readings as of December 2025 showing the index around 89.20 and the threat level at 117.41, well above long-term averages, reflecting ongoing tensions from conflicts like Russia-Ukraine and US-China competition. As of writing, levels are close to the peaks seen at the invasion of Ukraine in 2022.
+
+Elevated risks are a powerfully bullish cocktail for silver. Essentially, geopolitical tensions can quickly translate into increased financial market volatility. This can result in a flight to safe-haven assets, namely government bonds and certain currencies, but also gold and silver, which to date have not been seriously challenged by the bearish argument for lower prices. Demand for precious metals may be heightened when government bonds have reduced appeal. We believe this has been the case in recent months as concerns surrounding the size and scope of US budget deficits - as well as those of many other nations - have increased and been the subject of caution by the IMF and World Bank. While trade frictions appear to have calmed, any resurgence in trade tensions, especially US-China, stand to help rally silver.
+
+Silver can further benefit should financial frictions amplify the effect of global political risks via the channel of increased economic uncertainty. Geopolitical risks can dovetail with economic and policy uncertainty to silver's gain. Rising economic and/or political uncertainty or risk can lower collateral values of equities and other assets and increase credit spreads, limit credit provision, and slow economic activity. Financial market distortions, as a result of rising geopolitical risk and economic uncertainty, have negative impacts and, in the short term at least, can lead investors to look for safe havens, notably gold but also silver.
+
+## Monetary policy and USD impact on silver going forward
+
+Like gold, silver is an asset without a yield. Therefore, investors will tend to find it more attractive in times of low and negative real interest rates. Despite this, longer-term yields such as the US 10-year Treasury remained elevated through much of 2024 and 2025 as the silver market rallied to historic highs. High rates at the long end of the yield curve have clearly yet to deter the silver rally. This raises one of the biggest questions in the silver market - how can it consistently rally in the face of elevated long-term yields? Much of the explanation for this may lie in expectations of near-term policy rate cuts. Momentum accelerated further in the runup to the Federal Reserve's rate cut on 10 December. At its 9-10 December 2025 meeting the FOMC delivered a third-consecutive 25bp rate cut, bringing the federal funds target range to 3.503.75%. The vote was 9-3, with three dissents against the rate decision. Chicago Fed President Austan Goolsbee and Kansas City Fed President Jeffrey Schmid preferred no change in policy rates, while Fed Governor Stephen Miran preferred a 50bp rate cut. Fed Chair Jerome Powell said that this rate cut has now brought policy into a 'broad range of plausible estimates of neutral'. The tone of the press conference that followed was open-ended as to the question of whether and when the FOMC will cut policy rates further in 2026. Also, as an industrial commodity, silver should benefit from lower interest rates.
+
+<!-- image -->
+
+A soft USD in 2026 can support silver on downswings
+
+ETF holdings jumped in 2025 and may increase in 2026
+
+There may be limited room for net long positions to increase further
+
+According to HSBC's US Economist Ryan Wang, the Fed may be finished with rate cuts in the present cycle. He reiterated his view that the FOMC will keep the federal funds target range at 3.50-3.75% through 2027. That said, he stipulated that there will be important double-sided risks to this outlook to monitor as the economy evolves. Financial markets, however, are still pricing in well over 50bp of additional easing through end-2026, though the upcoming January FOMC is not expected to cut rates. This may help explain why silver prices keep shooting higher. Silver has also tended to react more to dovish comments from Fed officials than to hawkish or middle-of-the-road comments, affirming the bull market. Should anticipated cuts fail to materialize in 2026, we may see some break in the silver rally.
+
+We believe the USD will play a crucial role in determining silver prices. A soft USD is expected to remain the case, based on the possibility that the Fed is open to further rate cuts. Significant uncertainty over a new Fed Chairman and Supreme Court verdicts on tariffs and other issues raises risks and can also keep the USD on the back foot. The USD tended to weaken when dovish speculation grew over future Fed policy. While Mr Powell said the policy rate was in a broadly neutral range, he still appeared to have more concerns over the job market than inflation risks. Added to this, other G10 central banks are on hold. Fed liquidity operations and even a slight dovish Fed bias therefore leave the USD open to the downside.
+
+## ETF and the CME net long positions
+
+Changes in silver ETFs and net long positions on the CME reflect investor sentiment and demand. We believe that historically high silver prices are partly the result of investor shifts back into ETFs and net long exchange positions. After a c48moz decline in net holdings in 2023 and a modest increase of 17moz in 2024, ETF holdings shot higher in 2025 and, with it, silver prices. Combined silver holdings reached 858.7moz at end-2025, a 134moz gain for the year. This represented the biggest gain in ETF holdings since the shift into ETFs in 2020 at the height of the COVID-19 pandemic. A feature of silver ETFs as compared to gold ETFs is that holdings are generally less prone to liquidation, and have been firmly on the upswing for many months. The change in the global economic and financial landscape prompted by ongoing geopolitical, economic, and financial uncertainty is likely to keep ETF demand positive for at least H1 2026. That said, the bulk of gains may already have been made and our view that silver prices will moderate as 2026 progresses implies that demand for ETFs - even if positive - will cool as the year unfolds. However, we do not look for any major liquidation, short of a major silver price correction. We forecast an increase of 70moz in 2026 (from 20moz) and introduce a 2027 forecast of 40moz, as demand for safe-haven assets remains strong yet cools going forward.
+
+Net long positions on the CME have risen but at a less robust pace than ETFs. Positions on the CME are typically subject to a high degree of volatility. They closed 2024 at 262.11moz, just above 262moz at the beginning of the year. They surged earlier in 2025 to 396moz but were subject to liquidation and profit taking and ended 2025 at 271moz, an increase of 9moz on the year. Further accumulation may be limited, however. Gross long positions are at a high 436moz and gross short positions at a modest 164moz. Though gross longs have been reduced, the market remains more vulnerable to long liquidation, or an increase in gross short positions, than increases in gross long or reductions in gross shorts. Combined ETF and net long CME positions are at 1,130moz, down 47moz from the time of our last outlook. This is still equivalent to more than an entire year of silver mine production. Our view for fairly limited upside in ETFs and net long positions on the CME to build translates to limited price upside.
+
+<!-- image -->
+
+Large bars cater to institutional investors while small bars and coins cater to the retail market
+
+## 3. Silver prices, silver in ETFs, and net speculative long positions
+
+<!-- image -->
+
+Source: Bloomberg, HSBC
+
+## 4. Silver and net speculative long positions
+
+USD/oz
+
+<!-- image -->
+
+## Coin and bar and medal demand may stay sluggish but steady
+
+Coin and bar and medal purchases are also an important source of investor demand. Large bars cater to institutional investors and small bars and coins to the retail market. Combined coin and bar and medal demand rose for five straight years, hitting a record 361moz in 2022, according to The Silver Institute, in large part due to escalating Indian demand. This level of demand proved unsustainable and combined coin and bar and medal demand fell by more than a quarter to 255moz in 2023. According to The Silver Institute's 2025 Interim Update, there were further declines in 2024 by more than a fifth to 189moz, with coin and bar demand edging lower in 2025 to 182moz. Much of the decline came from pronounced weakness for coins in the US, with sizable levels of liquidations and sales of old coins on the secondary market. There were limited gains for coins in Europe but a more notable increase in large bars for institutional and high-net-worth individuals in that region. Despite high prices, Indian bar demand was also higher. Domestic prices are now more than INR200,000/kg. This has prompted some selling back from investors, although this remains limited given the still-bullish sentiment.
+
+Bar and coin demand, according to The Silver Institute, likely declined by 4% to a seven-year low of 182moz in 2025. This was a result of weakness in the US market, which offset gains in the important Indian and German markets. Despite a recent uptick in US demand, for much of 2025 the US contended with sizable retail investor liquidations. In contrast, Indian investors have bought into rising local prices, expecting further upside in 2026.
+
+## We may see a recovery in bar and coin demand in 2026 and 2027, based on :
+
+- ◆ After heavy dishoarding and liquidation, US coin buyers may at the least curb liquidation, which should raise net new coin demand
+- ◆ European demand is robust, based on economic sluggishness and geopolitical and policy uncertainty
+- ◆ High fiscal deficits across the Western world are also encouraging investment into hard assets, including silver
+- ◆ Geopolitical and economic policy uncertainty is key to large-scale institutional demand for large bars, which we believe may accelerate.
+
+Increases in coin and bar demand after several years of declines may be tempered by a number of factors. First and foremost is high prices. A 1oz coin can cost more than USD80/oz when a premium is included. In India, silver prices are well above INR200,000/kg, a level that is bound to moderate demand. German investment will remain modest following the removal of VAT exemptions on certain coins. High prices are still encouraging the liquidation of old coins and bars into the market.
+
+USD/oz
+
+<!-- image -->
+
+We look for only modest increases in coin and bar demand in 2026
+
+Silver mine supply well below the peak year of 900moz
+
+In exhibit 5, we show monthly US coin sales. Although an indication, US Mint sales may not reflect the true state of global coin or even US demand. Data from other mints are not as timely as the US, but coin demand from sister mints outside the US does not appear as strong as recent US sales. According to the US Mint, it sold 24.75moz of silver coins in 2023, up 55% from 2022. In 2024, it sold 24.86moz, almost unchanged y-o-y. Bar demand was likely steady, and while the retail audience for small bar was not enthusiastic, ETFs imply some increased demand for large bars. The US Mint reported November coin sales of just 749,500oz compared with 983,000oz sold the previous November, a y-o-y drop of 24%. For the first 11 months of 2025, the US Mint sold 11.568moz of silver coins vs 23.5480moz for the same period in 2024, a 51% decline. While we do not believe the slump in US Mint coin demand is reflected by other mints, global coin demand is likely lower, nonetheless. The demand for bars also looks a little better but down on last year.
+
+## 5. Silver coin sales
+
+<!-- image -->
+
+Source: US Mint, HSBC
+
+## The question is, how strong will global coin and bar demand be this year and next?
+
+We look for some recovery for 2026 and 2027, mostly in bar demand but also coins. Large bar demand may get a boost from an ongoing revival in ETF demand. There is also sufficient risk in the form of geopolitics, economic policy, and financial market concerns to support a certain level of coin and bar purchase. We see demand split fairly evenly between coin, medal, and bar. High gold prices may tempt buyers to shift to silver coins and bars as a cheaper alternative. While high prices would temper retail demand, institutional demand for large bars is strong. Concerns over inflation that drove coin and bar demand up in the emerging and OECD markets in recent years may be a declining issue, but geopolitical and economic policy uncertainty remains high. The popularity of gold products is also helping to buoy silver coin and bar demand. There is still room for further liquidation for some investors to take profits. For the three years from 2021-23, annual coin and bar demand averaged 290moz a year, more than 100moz above the average for the preceding five years. This provides a pool of investors who may liquidate. We forecast a modest recovery in 2026 to 201moz (from 180moz) and introduce a 2027 forecast of 210moz.
+
+## Supply: Up but lagging prices
+
+## Mine supply likely to rise in 2026 and 2027
+
+Silver is a widely mined precious metal, produced in scores of countries across the world and both as a primary metal and as a byproduct. Despite record-high prices, silver mine production remains well below 2016's record of 900moz. After years of decline - partly due to COVID-19 pandemic effects on mining - production steadied in 2023 at 811moz, then edged up to 813moz in 2024, according to The Silver Institute, yet well below 2022's 839moz. In its 2025 silver update from
+
+<!-- image -->
+
+The outlook for 2026-27 production is modestly positive
+
+November, 2025 production was forecast at a steady 813moz. This represented a downward revision. According to The Silver Institute, greater output from Mexico and Russia was largely offset by lower output from Indonesia and Peru - the latter a good example of a country with mixed production. According to company reports, some producers like Buenaventura may have seen slightly lower output due to reduced head grades, while others like Silver X Mining and Kuya Silver are focused on expansion. On aggregate, Peru's output may have dipped slightly in 2025 from 2024. Primary silver mine supply was forecast by The Silver Institute to rise c3moz to 227moz, buoyed by an additional 5moz from Mexico. Total Mexican production is forecast at 186moz for 2025, aided by the restart of the Tizapa facility at Penoles, following a long-running labor strike. The ongoing ramp-up at Endeavour Silver's Terronera mine and greater production at Southern Copper also supported increased production.
+
+The notable feature of 2025 production is how muted the output response has been to surging prices. While mining at least in the near term is highly inflexible as regards to prices, planned expansion and new projects should have lifted output, but slower-than-expected progress at some key producers reduced production below our expectations. A key drag on production is the decline on head grades. According to companies' Q3 2025 reports, global head grades at some primary silver operations fell, notably in Australia, following on from declines earlier in the year. Falling head grade is an important reason why aggregate mine output did not rise in 2025 and helps explain our cautious production outlook. Declining head grades essentially means the ore mined and delivered for processing contains a lower silver concentration than previously. Thus, in order to maintain or increase silver output, a greater amount of ore is required for processing. This raises costs and curbs production. Head grades also fell in North America and some Asian producers, according to company reports. Some countries including Peru, however, registered a modest increase in head grades, but overall we believe declining ore grades will drag on production. It is possible that record-high prices resulted in slightly greater output than current estimates imply, possibly to 815moz, but firm 2025 production data will not be available until well into 2026.
+
+The outlook for primary silver mine production is mixed but generally positive for 2026-27. Output from primary silver-producing mines should increase in 2026. Primary mine growth will be driven by new projects coming online, which is estimated to more than offset closures from depleted assets and clapped out mines. Output at some existing operations will also rise due to planned expansions. Silver mine output is likely to rise in 2026 in the US and Canada, driven by Hecla Mining and Silver X projects in Peru, while China continues its policy of silver mine expansion despite 2025 declines. High prices may sustain some marginal mines, however. Primary silver mine output is not expected to grow much in 2027.
+
+## Long lead times inhibit output
+
+We discussed the long lead times in opening new mines in previous outlooks but believe they merit revisiting. An appreciation of this impediment to increasing production goes a long way to explain why output is not expected to increase more actively despite historically high prices. A major constraint on silver production - as well as for other metals - is the long lead time in bringing new mines on production. According to S&amp;P Global, the average mine lead time continues to trend higher and was nearly 18 years for 2020-23, up from c12.7 years for mines that started 15 years ago. Earlier in the century, the time for a mine to turn a discovery of a deposit into startup production was just 10 years. The long lead time is a function of longer times for exploration, permitting, and studies phase, as well as a longer period between the end of feasibility studies and the start of construction. This is often attributable to time spent obtaining financing and construction permits. Lower capex in base metals mining earlier in the mining cycle may also constrain silver derived as a byproduct from base metals output. Other headwinds for supply include declining ore grades, a shortage of trained talent, and bottlenecks in smelting and refining.
+
+<!-- image -->
+
+Only about 30% of silver mine output is from primary silver mines
+
+There are challenges and obstacles to production for both byproduct and primary silver production
+
+6. Silver mine supply (moz)
+
+<!-- image -->
+
+Source: The Silver Institute, GFMS, LSEG, HSBC forecasts
+
+## Byproduct
+
+Less than 30% of silver mine output comes from primary silver mines. The rest is derived as a byproduct of other metals, notably gold and base metals. Difficulties in increasing primary mine output is shifting production slightly back in favor of mine byproduct output. We will see limited silver byproduct output over the next couple of years. Lower ore grades and technical and geopolitical problems limiting primary mine output are also affecting byproduct output.
+
+Silver byproduct was limited in 2025 but may increase in 2026 and 2027. Our forecast for higher gold mine output (see Gold Outlook: On the march , 3 October 2025) will support silver output, as millions of gold ounces mined will have some silver content, and some gold operations may have a high silver byproduct content. Base metals production - and its impact on byproduct silver supply - is less straightforward. Base metals output generally is forecast to rise this year and next, according to HSBC's Base Metals team (see Metals Quarterly Q4: The gilded age , 15 October 2025), which could also boost silver supply. However, supply issues will likely inhibit production in select metals (see Metals Quarterly Q4 2024: Another false start? , 21 October 2024).
+
+The mining team expects strong nickel production growth of 6.0% in 2025, followed by increases of 2.1% in 2026 and 3.6% in 2027. The bulk of increases is expected to come from Indonesia and mainland China, where sluggish prices are not deterring production. However, the amount of silver derived from nickel is generally modest. Copper output is a significant source of silver byproduct. Supply disruptions impacted the copper market in 2025, with production issues impacting the El Teniente, Grasberg, and Constancia operations. Despite potential supply bottlenecks, the mining team still expects mine supply to grow over the next three years, with growth rates peaking in 2027. The base metals team forecasts a refined copper 2025-27 CAGR of 2%, as high prices acted as an inducement to increase output wherever possible, but increases will be limited. Much of the growth will come from projects in Africa and Latin America. After increasing 3.6% in 2025, as new projects commenced production, the global zinc supply CAGR is anticipated to be 2.7% from 2026-29. Both mine output and smelter expansion will increase supply, led by outsized growth from China. Lead-zinc mine output should also grow. While copper and gold and lead-zinc mines are a major source of silver mine output, silver is also a byproduct of manganese and cobalt production. Manganese production is seen as flat in 2025, rising modestly in 2026, while cobalt production is forecast to decline this year. These metals are more modest sources of silver byproduct, however.
+
+7. 2026e silver supply forecast (moz)
+
+Source: HSBC forecasts
+
+<!-- image -->
+
+<!-- image -->
+
+Lower grades limit production despite high prices
+
+Recycling will add to supply this year and next
+
+There are challenges and obstacles to production for both byproduct and primary silver production, including shortages of trained staff and rising equipment and energy prices. As the occasional antagonism of the local populace in some remote areas of developments and declining grades are also impediments, there is a strong economic argument for producers to strain to increase silver output wherever possible. According to company reports, grade declines appear likely to be a longterm trend, making increased production important to raising overall supply. This will make it gradually more difficult to lift output over the long term. Historically high prices above USD50/oz can only encourage production modestly by supporting producer margins. As far as we can ascertain, global all-in sustaining costs (AISC) of production are a fraction of silver prices and even significant price corrections would have no impact on production schedules as mining silver will remain profitable. Producer margins for primary silver mines are clearly massive, with the bulk of miners producing silver for well below USD20/oz. Gold and base metals operations are wide enough to encourage silver output, where possible. Some facilities will retire, but this will only restrain, not reverse, rising silver output. Despite high prices, the complexities and challenges of mining mean that most production schedules cannot be brought despite the financial inducements to do so. We lower our mine supply outlook, reflecting limited progress across several prospective developments. We expect 2025 production at 813moz (from 820moz) and temper our 2026 forecast to 824moz (from 838moz). We introduce a 2027 forecast of 830moz. The increases in production are modest in relation to the price rally (see exhibits 6 and 7 for mine supply and supply split).
+
+## Not out with the old…yet
+
+Recycling is the second-largest source of silver supply after mining. Technological advances have led to the escalation of silver demand in the electrical and electronics manufacturing sectors, but have also boosted recycling levels as these products reach their end of life. Like gold, silver recycling is split between mandatory, such as what regularly occurs in industry due to environment regulations, and discretionary from individual holders of silver, which is often in the form of jewelry, silverware, or even bars. Industrial recycling follows a product cycle rhythm, and environmental regulations mandating greater recycling have increased in recent years. Individuals have more discretion and can increase scrap supplies on rallies and reduce them on price downswings. Recyclers also have some discretion about when to release - or hold - recycled material and therefore can also be sensitive to price swings. In this regard, Indian jewelry recycling flows are especially price-sensitive and prices above USD50/oz, combined with the weak INR, stimulated Indian recycling earlier in 2025. The more recent jump in prices, however, may not be having as much of a supply impact as one might imagine. There are enormous amounts of silver above ground, but much of it is not in tradable form (jewelry, silver products, industrial scrap, old and cracked bars). Higher prices normally lead to a significant increase in scrap supply such as in 197980 and 2011 when gold almost touched USD50/oz. The enormity of the current rally may be having a countereffect on scrap supply and may be leading some bullion holders to refrain from handing in scrap metal. A moderation in the rally or a notable pullback could trigger fresh supply for recycling.
+
+According to The Silver Institute, silver recycling supply dropped by 10moz to 185moz in 2023. The Institute tabulated a rise to 194moz in 2024 but only a modest increase in 2025 to 197moz. The increase in recycling was primarily price-driven. Recycling increased from every major category, including jewelry, while industrial scrap was driven by the processing of spent ethylene oxide (EO) catalysts, as well as electronic scrap and silverware. Jewelry and silverware saw especially sharp rises in scrap recycling. Photography was the only major category where recycling did not increase.
+
+How much higher prices contribute to recycling is debatable. Based on conversations with recyclers and fabricators, we believe scrap silver recycling for 2026 is likely to increase, as the temptation to 'cash in' on high prices may prove too alluring for some bullion holders. That said, we do not expect a significant pickup in recycling rates until prices moderate or even correct. Any real sign that the rally is flagging could lead to a rush by holders fearful of missing out on high prices to recycle old scrap. High prices may also encourage the recycling of industrial scrap, even though this category
+
+<!-- image -->
+
+Industrial offtake accounts for half of aggregate silver demand appears to have been sluggish in 2025. Recycling appears to be at brisk levels in Western nations, but expectations of even higher prices may be curbing Indian and some China recycling. Short of a significant drop in prices to near USD30/oz, which we regard as highly unlikely, we believe scrap recycling will rise further in 2026 and 2027. After 197moz in 2025, we forecast recycling of 206moz (from 200moz previously) in 2026. We introduce a 2027 forecast of 210moz. Price-led increases account for our expectation of ongoing high recycling levels. Increases in industrial scrap will more than likely counter any declines from reduced photographic scrap.
+
+Even if prices fall from current lofty levels, we do not expect discretionary recycling to be curbed. There is a base level of recycling that we are unlikely to go below, regardless of price, as a good portion of recycling flows of industrial and consumer goods is mandated by environmental legislation and regulation, as well as discretionary recycling. In the longer term, we believe environmental regulations and green awareness will continue to elicit greater recycling efforts and provide an undercurrent of recyclable material. This includes forecast increases in PV demand, increased uses in electronics, and advances in silver and precious metals recycling, as well as more extensive collection of metals. We anticipate increases from nondiscretionary scrap supply including replacing EO catalysts and increased recovery of electronic items.
+
+The amount of silver above ground is enormous. There are various estimates, but the United States Geological Survey puts it around 1.74mt (c56bnoz). That said, while massive amounts have been mined, much has been lost or consumed. Identifiable above-ground silver (jewelry, coins) might be c20-50bnoz, with only a small fraction in bullion form (c2.5-4.0bnoz). Industrial users consume most of this stock. Another factor delaying recycled product from hitting the market in usable form is the backlog in smelters and refiners. As with mining, the construction of new plants is a multiyear process and there is a shortage of available refining space. Despite these factors, we forecast a notable jump in recycling as we believe recyclers and processors will continue to clear out materials backlogs. Our forecasts still represent more than decade-high levels in recycling. We base some of the increase in recycling not so much on our outlook for high prices but also on more efficient collection of industrial and electronic goods. Another supply source is hedging. After contributing 11moz to supply in 2025 as some producers took advantage of high prices, we believe net hedging could contribute 13moz to supply in 2026 (from 5moz previously). We introduce a forecast of 11moz in net hedging for 2027.
+
+## Demand: Industrial is key
+
+## Industrial strength
+
+Industrial offtake regularly accounts for well over half of aggregate silver demand. Industrial demand for silver was essentially on a 10-year uptrend from 2015-24, with the exception of 2020, when the COVID-19 pandemic crimped global demand. Silver demand was also closely linked to global industrial growth. This relationship diverged in 2025. While global industrial production rose modestly, industrial silver consumption likely contacted, according to The Silver Institute. That said, there is a bedrock of demand for silver, powered by a generally active global economy with expansion in silver-intensive industries including high tech, AI, and biosciences. This will provide a baseline of demand. High prices, however, have dented demand. Photovoltaic (PV) demand for silver has accelerated markedly in recent years, with rapid growth in PV and solar power installations worldwide. Thrifting and substitution are noticeably impacting PV demand, though China continues to expand solar power capacity. A vibrant upwards slope in silver demand for the PV sector can no longer be counted on, and we have reduced our demand forecasts accordingly. After years of explosive demand, PV installation is also slowing. In Global Trends and Market Changes in Solar Energy, 2025-2029 (12 December 2025), the European Business Association outlines challenges to greater solar power use. Although continued market growth is expected, the pace is expected to slow after several years of explosive expansion.
+
+<!-- image -->
+
+Silver industrial demand will decline
+
+After a 10% increase in installations to 655GW in 2025, annual growth rates are forecast to decline to the low double digits in 2026-29. This implies much tamer silver demand than was envisaged even a year ago.
+
+Artificial intelligence (AI) remains a powerful demand source for silver. Investment in AI-related industries is increasing silver demand over a wide scale of applications, including smart grid infrastructure and data transmission. Investment levels lead us to view AI-related silver demand as a growth source for the next several years.
+
+While industrial demand for silver is largely inelastic, the near-unprecedented rise in silver prices has dented demand, at least at the margin. Cost pressures are leading manufacturers and industrial users to search for substitutes, make design changes, and reduce the metal used in various processes and products. High prices have also accelerated efforts already underway in this area. The expectation that silver prices will remain high is leading industrial users to examine processes in the future that can reduce silver demand significantly or eliminate it. Non-precious metals including copper and processed alloys may take the place of silver wherever possible.
+
+After years of unremitting, record-high growth, silver industrial demand dropped in 2025 to 665moz, according to The Silver Institute, from 680moz in 2024. Demand is unlikely to recover in 2026 and could fall further in 2027. In Global Economic Quarterly: Shaky foundations (19 December 2025), HSBC's Chief Global Economist Janet Henry and the economics team forecast that, after growing 3.0% in 2025, global industrial production will edge up 2.8% in 2026 and 2.9% in 2027. These are a little below the average for the previous 10 years. Ostensibly, these aggregate growth figures imply only modest silver demand this year and next. Industrial growth does not necessarily imply greater silver demand, however. Industrial silver consumption is subject to a myriad of influences including the emergence of new technologies and the replacement of older production methods, scientific developments, recycling schedules, and growth patterns in construction, transport, and high tech, especially electronics and solar power. Some of the further reasons we believe industrial demand may moderate:
+
+- ◆ The threat of tariffs and global trade disruption, while calming in recent months, still presents a very real threat to silver demand as many of the industries impacted, including electronics and autos, are intensive silver users
+- ◆ The automotive and aerospace industries provide steady demand for silver, notably in wiring and brazing alloys, but auto demand is slowing
+- ◆ A slower pace of EO capacity, a key requirement for heavy and traditional industries, will reduce silver demand
+- ◆ The structural decline in photography will likely continue
+- ◆ 'Closed loop' recycling, the process where silver can be recycled and used again in a similar but new product without being put back into the market, may increase for some key industries such as petrochemicals. High prices are encouraging closed loop recycling
+- ◆ Silver is no longer 'cheap', leading some heavier users to husband usage
+- ◆ Despite sluggish auto output globally as forecast by the HSBC automotive team, attempts to find alternatives may be a notable drag on silver demand.
+
+Ranged against this is an array of additional supportive factors for silver industrial demand:
+
+- ◆ Despite the steep rally, silver arguably remains cheap compared with other precious metals and has no viable substitute
+- ◆ Silver is used in a myriad of industrial processes for millions of products in sometimes small quantities with no competition from base or other precious metals
+
+<!-- image -->
+
+- ◆ Despite some slowing Chinese industrial production - the world's largest user and importer of silver - output is still high vs most of the world. Ms Henry's team forecasts industrial production increases 4.8% in 2026 and 4.7% in 2027 for China. Other non-OECD Asian economies also have a high predilection towards using silver in industry
+- ◆ Silver is of particular use in key environmental and bioscience applications. Some of these applications, notably increased silver consumption but environmental programs in particular, are experiencing a reduction in both government and private funding in and outside the US.
+
+## 8. Industrial production and silver demand growth (percentage changes)
+
+<!-- image -->
+
+Source: The Silver Institute, GFMS, LSEG Datastream, HSBC
+
+Electronics is a cornerstone of industrial demand for silver. Two-thirds of industrial demand for silver is in electronics and electrical applications. Semiconductor demand is a good bellwether for electronics and, hence, silver electronic demand merits closer examination. On 4 December 2025, the Semiconductor Industry Association (SIA) announced global semiconductor sales of USD72.7bn in October. Following a stronger-than-expected Q3, the global semiconductor market is projected to grow 22% in 2025, reaching USD772bn, 7% above the previous forecast. Sales data are compiled by the World Semiconductor Trade Statistics (WSTS) organization. For 2026, WSTS forecast the global semiconductor market to grow by more than 25% to USD975bn. Growth is expected across all regions and product categories. Memory and logic are again projected to lead, both increasing by over 30% y-o-y. Most other product categories are expected to continue their gradual recovery, expanding at a more moderate pace. The value of sales does not translate proportionately into greater silver demand. Consumer products including smartphones, laptops, and wearables all face varying challenges that can delay production and, hence, silver demand.
+
+According to The Silver Institute, 2025 combined industrial demand for silver came in near 665moz vs a record-high 680moz in 2024. A look at the past few years puts the growth in industrial demand in perspective. Silver industrial demand jumped 117moz in the four years from 2021-24. By comparison, mine production, the major source of silver supply, fell 11moz in the same period. High prices, limited substitution and thrifting, the impact of tariffs, and a slowdown in some industries lead us to look for further declines. We forecast a drop to 660moz for industrial silver demand in 2026 (from 696moz) and to 616moz in 2027.
+
+<!-- image -->
+
+Silver jewelry demand may weaken this year
+
+India and China are key regions impacting jewelry demand
+
+## Jewelry and silverware…not too shiny
+
+As a luxury good, jewelry is perhaps the most price-elastic component of silver demand. The outlook for jewelry demand is not positive, as consumption is weighed down by high prices and to a far lesser degree a moderating global economy. According to The Silver Institute's Silver Survey, jewelry and silverware fabrication demand fell 5% to 246.6moz in 2025 from 260.3moz in 2024. The bulk of the decline in jewelry related to price. On a regional basis, Indian demand has remained resilient, buoying global demand despite high prices. A key factor supporting Indian demand, and one which we expect to continue to support purchases, is substitution with high-priced gold. There is a limit to how far substitution with gold can translate into silver jewelry demand. Prices are above INR210,000/kg as of writing, resulting in very high prices for consumer items at retail. There is also a trend towards lighter-weight items. Income gains in India's fast-growing economy may support demand, however. The case is much the same as regards demand in China and our near-term outlook for China's silver jewelry demand. On the one hand, high prices have cut into the traditional jewelry market. On the other hand, highpriced gold has boosted demand for silver as a substitute. Healthy demand for gold-plated silver jewelry and cultural affinity to silver may also buoy demand and counteract high prices. We expect this pattern to broadly repeat in 2026 and 2027.
+
+Europe and North America are the other main sources of silver jewelry demand. Economic sluggishness, constrained consumer income, and high prices weighed on European demand in 2025. Given these factors are likely to persist for the next year or two, silver jewelry demand may only rise if it gains market share on gold. US demand for silver jewelry has been tame and weaker in tonnage terms. By contrast with other markets, there has been limited crossover to silver from gold by consumers. High prices are also biting into demand. Other regions including Southeast Asia, the Middle East, and Latin America all registered slight declines in 2025.
+
+It is difficult to be positive regarding jewelry demand for 2026 and 2027. We expect high prices to continue to crimp demand. After 199moz in 2025 per The Silver Institute, we forecast jewelry demand will drop to 184moz in 2026 and 175moz in 2027. For silverware, after falling to 48moz in 2025, we forecast further decline to 45moz in 2026 and 42moz in 2027. Our restrained forecasts consider marketing trends, as silverware does not seem to appeal to younger consumers.
+
+India and China are important silver-consuming and importing nations. According to official Customs Bureau data, China imported 232.7t of silver in October 2025, down 33% from October 2023. For the first 10 months of 2025, China imported 2,520t of silver, down 20% from the same period in 2024. This implies weakening demand. The moderation in industrial activity along with still-high prices may moderate China imports.
+
+## 9. India silver imports
+
+<!-- image -->
+
+Source: Bloomberg, India Customs, HSBC
+
+10. China silver imports
+
+<!-- image -->
+
+Source: Bloomberg, China Customs Bureau HSBC
+
+<!-- image -->
+
+India's imports, which are mostly for jewelry and coins and bars, came in at a strong 680t, 39% above the 489t imported in November 2024 but down from the October record of 1,785t. Much of the October jump was due to buying ahead of the Diwali festival. The strong November showed continued crossover by Indian consumers from high-priced gold to more economic silver. For the first 11 months of 2025, India imported 6,785t, a 6% y-o-y drop, according to India's Customs Bureau. The decline clearly showed price resistance, but a reduction in import taxes is positive and crossover demand for silver - because of high-priced gold - also buoyed imports. Also, the domestic economy is strong and silver remains highly competitive with highpriced gold. India and China silver imports are shown in exhibits 9 and 10.
+
+## Conclusion
+
+Silver is in a historic rally, hitting USD83.60/oz as 2025 closed, before retracing sharply the same day. While we view silver as fundamentally overvalued, we expect high levels of volatility and frequent spikes to the upside on supply scares, real or imagined. We expect prices to be well supported but envisage a wide and volatile trading range this year as a coterie of offsetting and sometimes conflicting factors influence silver. Supportive factors include geopolitical and economic policy uncertainty, threats to Fed independence, and a soft USD as forecast by HSBC FX Research. Heavy safe-haven buying, notably through ETFs, and pronounced tightness in the physical markets and backwardation in the futures markets are driving the price higher. We expect this to continue at least through H1. Weaker industrial demand and supply increases from mining and recycling may begin to weigh on the rally in H2. If tightness is resolved as we expect it eventually will be, we envision a price correction, but only later in the year. We forecast ongoing production/consumption deficits, which will provide support on the downside for silver.
+
+Based on our expectation for high gold, strong investor demand, and volatile trading, we raise our average silver price forecasts to USD68.25/oz (from USD44.50/oz) for 2026, USD57.00/oz (from USD40.00/oz) for 2027, and USD49.00/oz (from USD38.00/oz) for 2028. We introduce a 2029 forecast of USD47.00/oz. Our average 2026 forecast conceals expectations of a wide USD88.00-58.00/oz range as we look for high levels of volatility and price declines in H2. Our end-2026 and end-2027 forecasts are USD62.00/oz and USD55.00/oz, respectively.
+
+<!-- image -->
+
+## Disclosure appendix
+
+## Analyst Certification
+
+The following analyst(s), economist(s), or strategist(s) who is(are) primarily responsible for this report, including any analyst(s) whose name(s) appear(s) as author of an individual section or sections of the report and any analyst(s) named as the covering analyst(s) of a subsidiary company in a sum-of-the-parts valuation certifies(y) that the opinion(s) on the subject security(ies) or issuer(s), any views or forecasts expressed in the section(s) of which such individual(s) is(are) named as author(s), and any other views or forecasts expressed herein, including any views expressed on the back page of the research report, accurately reflect their  personal  view(s)  and  that  no  part  of  their  compensation  was,  is  or  will  be  directly  or  indirectly  related  to  the  specific recommendation(s) or views contained in this research report: James Steel
+
+## Important disclosures
+
+This document has been prepared and is being distributed by the Research Department of HSBC and is intended solely for the clients of HSBC and is not for publication to other persons, whether through the press or by other means.
+
+This document is for information purposes only and it should not be regarded as an offer to sell or as a solicitation of an offer to buy the securities or other investment products mentioned in it and/or to participate in any trading strategy.  Advice in this document is general and should not be construed as personal advice, given it has been prepared without taking account of the objectives, financial situation or needs of any particular investor.  Accordingly, investors should, before acting on the advice, consider the appropriateness of the advice, having regard to their objectives, financial situation and needs. If necessary, seek professional investment and tax advice.
+
+Certain investment products mentioned in this document may not be eligible for sale in some states or countries, and they may not be suitable for all types of investors. Investors should consult with their HSBC representative regarding the suitability of the investment products mentioned in this document and take into account their specific investment objectives, financial situation or particular needs before making a commitment to purchase investment products.
+
+The value of and the income produced by the investment products mentioned in this document may fluctuate, so that an investor may get back less than originally invested.  Certain high-volatility investments can be subject to sudden and large falls in value that could equal or exceed the amount invested.  Value and income from investment products may be adversely affected by exchange rates, interest rates, or other factors.  Past performance of a particular investment product is not indicative of future results.
+
+HSBC and its affiliates will from time to time sell to and buy from customers the securities/instruments, both equity and debt (including derivatives) of companies covered in HSBC Research on a principal or agency basis or act as a market maker or liquidity provider in the securities/instruments mentioned in this report.
+
+Analysts, economists, and strategists are paid in part by reference to the profitability of HSBC which includes investment banking, sales &amp; trading, and principal trading revenues.
+
+Whether, or in what time frame, an update of this analysis will be published is not determined in advance.
+
+For disclosures in respect of any company mentioned in this report, please see the most recently published report on that company available  at www.hsbcnet.com/research .  HSBC  Private  Bank  clients  should  contact  their  Relationship  Manager  for  queries regarding other research reports. In order to find out more about the proprietary models used to produce this report, please contact the authoring analyst.
+
+<!-- image -->
+
+## Additional disclosures
+
+- 1 This report is dated as at 07 January 2026.
+- 2 All market data included in this report are dated as at close 05 January 2026, unless a different date and/or a specific time of day is indicated in the report.
+- 3 HSBC has procedures in place to identify and manage any potential conflicts of interest that arise in connection with its Research business. HSBC's analysts and its other staff who are involved in the preparation and dissemination of Research operate and have a management reporting line independent of HSBC's Investment Banking business. Information Barrier procedures are in place between the Investment Banking, Principal Trading, and Research businesses to ensure that any confidential and/or price sensitive information is handled in an appropriate manner.
+- 4 You are not permitted to use, for reference, any data in this document for the purpose of (i) determining the interest payable, or other sums due, under loan agreements or under other financial contracts or instruments, (ii) determining the price at which a financial instrument may be bought or sold or traded or redeemed, or the value of a financial instrument, and/or (iii) measuring the performance of a financial instrument or of an investment fund.
+
+<!-- image -->
+
+## Disclaimer
+
+Legal entities as at 7 December 2024:
+
+HSBC Bank plc; HSBC Continental Europe; HSBC Continental Europe SA, Germany; HSBC Bank Middle East Limited, DIFC; HSBC Bank Middle East Limited, UAE branch; HSBC Yatirim Menkul Degerler AS, Istanbul; The Hongkong and Shanghai Banking Corporation Limited, Hong Kong; The Hongkong and Shanghai Banking Corporation Limited, Singapore Branch; The Hongkong and Shanghai Banking Corporation Limited, Seoul Securities Branch; The Hongkong and Shanghai Banking Corporation Limited, Seoul Branch; HSBC Qianhai Securities Limited; HSBC Securities (Taiwan) Corporation Limited; HSBC Securities and Capital Markets (India) Private Limited, Mumbai; HSBC Bank Australia Limited; HSBC Securities (USA) Inc., New York; HSBC México, SA, Institución de Banca Múltiple, Grupo Financiero HSBC; Banco HSBC SA
+
+Issuer of report HSBC Securities (USA) Inc. 66 Hudson Boulevard New York, NY 10001, USA Telephone: +1 212 525 5000 Fax: +1 212 525 0354 Website: www.research.hsbc.com
+
+This material was prepared and is being distributed by HSBC Securities (USA) Inc., ("HSI") a member of the HSBC Group, the NYSE and FINRA. This material is for the information of clients of HSI and is not for publication to other persons, whether through the press or by other means. It is based on information from sources, which HSI believes to be reliable but it is not guaranteed as to the accuracy or completeness. This material is not, and should not be construed as, an offer or the solicitation of an offer to buy or sell any securities. The information contained herein is under no circumstances to be construed as investment advice and is not tailored to the needs of the recipient. The opinions contained within the report are based upon publicly available information at the time of publication and are subject to change without notice. From time to time research analysts conduct site visits of covered issuers. HSBC policies prohibit research analysts from accepting payment or reimbursement for travel expenses from the issuer for such visits. HSI and/or its affiliated companies will buy or sell from customers on a principal basis the securities of the issuer(s) whose securities are recommended in this report. Employees of HSI and its affiliates not involved in the preparation of this report may have positions in the securities mentioned in this report and may from time to time add or dispose of any such securities in a manner different than discussed in this report. Past performance is not necessarily a guide to future performance. The value of any investment or income may go down as well as up and you may not get back the full amount invested. Where an investment is denominated in a currency other than the local currency of the recipient of the research report, changes in the exchange rates may have an adverse effect on the value, price or income of that investment. In case of investments for which there is no recognised market it may be difficult for investors to sell their investments or to obtain reliable information about its value or the extent of the risk to which it is exposed. The document is intended to be distributed in its entirety. Unless governing law permits otherwise, you must contact a HSBC Group member in your home jurisdiction if you wish to use HSBC Group services in effecting a transaction in any investment mentioned in this document.
+
+In the UK, this publication is distributed by HSBC Bank plc for the information of its Clients (as defined in the Rules of FCA) and those of its affiliates only. Nothing herein excludes or restricts any duty or liability to a customer which HSBC Bank plc has under the Financial Services and Markets Act 2000 or under the Rules of FCA and PRA. A recipient who chooses to deal with any person who is not a representative of HSBC Bank plc in the UK will not enjoy the protections afforded by the UK regulatory regime. HSBC Bank plc is regulated by the Financial Conduct Authority and the Prudential Regulation Authority. If this research is received by a customer of an affiliate of HSBC, its provision to the recipient is subject to the terms of business in place between the recipient and such affiliate.
+
+In the European Economic Area, this publication has been distributed by HSBC Continental Europe or by such other HSBC affiliate from which the recipient receives relevant services.
+
+In Hong Kong, this document has been distributed by The Hongkong and Shanghai Banking Corporation Limited in the conduct of its Hong Kong regulated business for the information of its institutional and professional customers; it is not intended for and should not be distributed to retail customers in Hong Kong, unless permitted otherwise. The Hongkong and Shanghai Banking Corporation Limited makes no representations that the products or services mentioned in this document are available to persons in Hong Kong or are necessarily suitable for any particular person or appropriate in accordance with local law. All inquiries by such recipients must be directed to The Hongkong and Shanghai Banking Corporation Limited. In Korea, this publication is distributed by either The Hongkong and Shanghai Banking Corporation Limited, Seoul Securities Branch ("HBAP SLS") or The Hongkong and Shanghai Banking Corporation Limited, Seoul Branch ("HBAP SEL") for the general information of professional investors specified in Article 9 of the Financial Investment Services and Capital Markets Act ("FSCMA"). This publication is not a prospectus as defined in the FSCMA. It may not be further distributed in whole or in part for any purpose. Both HBAP SLS and HBAP SEL are regulated by the Financial Services Commission and the Financial Supervisory Service of Korea. In Singapore, this publication is distributed by The Hongkong and Shanghai Banking Corporation Limited, Singapore Branch for the general information of institutional investors or other persons specified in Sections 274 and 304 of the Securities and Futures Act (Chapter 289) ("SFA") and accredited investors and other persons in accordance with the conditions specified in Sections 275 and 305 of the SFA. Only Economics or Currencies reports are intended for distribution to a person who is not an Accredited Investor, Expert Investor or Institutional Investor as defined in SFA. The Hongkong and Shanghai Banking Corporation Limited, Singapore Branch accepts legal responsibility for the contents of reports. This publication is not a prospectus as defined in the SFA. It may not be further distributed in whole or in part for any purpose. The Hongkong and Shanghai Banking Corporation Limited Singapore Branch is regulated by the Monetary Authority of Singapore. Recipients in Singapore should contact a "Hongkong and Shanghai Banking Corporation Limited, Singapore Branch" representative in respect of any matters arising from, or in connection with this report. Please refer to The Hongkong and Shanghai Banking Corporation Limited Singapore Branch's website at www.business.hsbc.com.sg for contact details. In Australia, this publication has been distributed by The Hongkong and Shanghai Banking Corporation Limited (ABN 65 117 925 970, AFSL 301737) for the general information of its "wholesale" customers (as defined in the Corporations Act 2001). Where distributed to retail customers, this research is distributed by HSBC Bank Australia Limited (ABN 48 006 434 162, AFSL No. 232595). These respective entities make no representations that the products or services mentioned in this document are available to persons in Australia or are necessarily suitable for any particular person or appropriate in accordance with local law. No consideration has been given to the particular investment objectives, financial situation or particular needs of any recipient.
+
+HSBC México, S.A., Institución de Banca Múltiple, Grupo Financiero HSBC is authorized and regulated by Secretaría de Hacienda y Crédito Público and Comisión Nacional Bancaria y de Valores (CNBV). In Brazil, this document has been distributed by Banco HSBC SA ("HSBC Brazil"), and/or its affiliates. As required by Resolution No. 20/2021 of the Securities and Exchange Commission of Brazil (Comissão de Valores Mobiliários), potential conflicts of interest concerning (i) HSBC Brazil and/or its affiliates; and (ii) the analyst(s) responsible for authoring this report are stated on the chart above labelled "HSBC &amp; Analyst Disclosures".
+
+If you are a customer of HSBC International Wealth &amp; Premier Banking ("IWPB"), including HSBC Private Bank, you are eligible to receive this publication only if: (i) you have been approved to receive relevant research publications by an applicable HSBC legal entity; (ii) you have agreed to the applicable HSBC entity's terms and conditions and/or customer declaration for accessing research; and (iii) you have agreed to the terms and conditions of any other internet banking, online banking, mobile banking and/or investment services offered by that HSBC entity, through which you will access research publications (collectively with (ii), the "Terms"). If you do not meet the above eligibility requirements, please disregard this publication and, if you are a IWPB customer, please notify your Relationship Manager or call the relevant customer hotline. Distribution of this publication is the sole responsibility of the HSBC entity with whom you have agreed the Terms. Receipt of research publications is strictly subject to the Terms and any other conditions or disclaimers applicable to the provision of the publications that may be advised by IWPB.
+
+© Copyright 2026, HSBC Securities (USA) Inc., ALL RIGHTS RESERVED. No part of this publication may be reproduced, stored in a retrieval system, or transmitted, on any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without the prior written permission of HSBC Securities (USA) Inc.
+
+[1271071]
+
+<!-- image -->
+
+## Global FX Research Team
+
+Global Head of FX Research
+
+Paul Mackel paulmackel@hsbc.com
+
+## Asia
+
+Head of Asia FX Research
+
+Joey Chew +65 6658 5186 joey.s.chew@hsbc.com.sg
+
+## Jackit Wong
+
++852 2841 8245
+
+jackit.w.s.wong@hsbc.com.hk
+
+Jingyang Chen +852 2996 6558 Jingyang.chen@hsbc.com.hk
+
+## Europe/CEEMEA
+
+Daragh Maher +44 20 7991 8888 daragh.maher@hsbc.com
+
+Murat Toprak +44 20 7991 5415 murat.toprak@hsbcib.com
+
+Nick Andrews +44 20 7991 2376 nick.andrews@hsbc.com
+
+Tom Wookey +44 20 7991 3367 thomas.wookey@hsbc.com
+
+## Americas
+
+Head of LatAm FX Strategy Joseph Incalcaterra +1 212 525 5606 joseph.f.incalcaterra@us.hsbc.com
+
+Clyde Wardle +1 646 610 3260 clyde.wardle@us.hsbc.com
+
+Allison Buck +1 212 525 4119 allison.buck@us.hsbc.com
+
+Precious Metals
+
+James Steel james.steel@us.hsbc.com
+
++44 20 3268 3252
+
++1 212 525 3117

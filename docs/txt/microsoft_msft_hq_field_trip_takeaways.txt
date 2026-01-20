@@ -1,0 +1,412 @@
+<!-- image -->
+
+## Microsoft Corp. (MSFT)
+
+Takeaways from our HQ Field Trip
+
+MSFT
+
+1 2m	Pri c e	Target:
+
+$655.00
+
+Pri c e:
+
+$459.38
+
+Upside:
+
+42.6%
+
+## We visited Microsoft headquarters in Redmond, Washington, on 12/15, and met with several executives across multiple business
+
+divisions. While these meetings were 1 month ago, we believe our takeaways are longer term in nature, including: 1) Microsoft's intense focus on fungibility to manage through the AI compute cycle in both periods of supply constraints and potentially excess supply, and to mitigate customer concentration risk; 2) Microsoft's intense focus on capacity planning that allows it to dynamically allocate compute across Azure customers, internal R&amp;D and 1P apps; 3) Microsoft's gross margin advantage via its partnership with OpenAI (such that it can leverage models without paying additional LLM API fees) and its potential to abstract LLM value into an orchestration layer; and 4) an evolution in enterprise conversations that are more supportive of Copilot adoption today vs. a year ago. We are positive on the stock as we continue to view Microsoft as best positioned in our coverage universe to bene fi t from compounding AI product cycles with a path to ~$35 in EPS in FY30 (ends June 2030), implying &gt;20% EPS growth. Please also see our Microsoft initiation here.
+
+## Key Takeaways
+
+## 1) Microsoft expects AI margins to improve over time and sees
+
+margin expansion potential in core cloud: Management frames Azure gross margins through two lenses: 1) classic cloud, and 2) with AI. For Azure ex. AI, Microsoft believes that margins can continue to expand with scale, e ffi ciency gains, and cost optimization, even with passing price downs partly on to customers and server refresh cycles. For Azure with AI, Microsoft sees parallels between the AI cycle and the early stages of the cloud cycle, characterized initially by elevated costs and weak unit economics but improving with scale, utilization, and engineering e ffi ciency. In the cloud transition, Microsoft set a medium-term gross margin target with annual
+
+## BUY
+
+<!-- image -->
+
+## Gabriela Borges, CFA
+
++1(212)902-7839 | gabriela.borges@gs.com Goldman Sachs &amp; Co. LLC
+
+## Callie Valenti
+
++1(212)357-2790 | callie.valenti@gs.com Goldman Sachs &amp; Co. LLC
+
+## Selina Zhang
+
++1(212)357-9979 | selina.zhang@gs.com Goldman Sachs &amp; Co. LLC
+
+Key Data   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Market	cap:	$3.4tr
+
+Enterprise	value:	$3.4tr
+
+3m	ADTV:	$11.6bn
+
+United	States
+
+Americas	Software
+
+M&amp;A	Rank:	3
+
+| GS Forecast              | 6/25      | __________________________________ 6/26E   | 6/27E     | 6/28E     |
+|--------------------------|-----------|--------------------------------------------|-----------|-----------|
+| Revenue ($ mn)           | 281,724.0 | 330,648.7                                  | 394,135.3 | 464,397.5 |
+| EBITDA ($ mn)            | 156,528.0 | 188,548.1                                  | 229,621.9 | 279,410.8 |
+| EBIT ($ mn)              | 128,528.0 | 152,201.6                                  | 179,182.3 | 212,954.1 |
+| EPS ($)                  | 13.71     | 16.60                                      | 19.61     | 23.35     |
+| P/E (X)                  | 30.9      | 27.7                                       | 23.4      | 19.7      |
+| EV/EBITDA (X)            | 19.8      | 17.7                                       | 14.4      | 11.7      |
+| FCF yie ld ( % )         | 2.3       | 2.0                                        | 2.2       | 3.2       |
+| Divi d en d yie ld ( % ) | 0.8       | 0.8                                        | 0.9       | 0.9       |
+| N e t d e bt /EBITDA (X) | (0.3)     | (0.4)                                      | (0.4)     | (0.6)     |
+|                          | 9/25      | 12/25E                                     | 3/26E     | 6/26E     |
+| EPS ($)                  | 4.13      | 3.98                                       | 4.03      | 4.46      |
+
+<!-- image -->
+
+Source: Company data, Goldman Sachs Research estimates. See disclosures for details.
+
+Goldman Sachs does and seeks to do business with companies covered in its research reports. As a result, investors should be aware that the fi rm may have a con fl ict of interest that could a ff ect the objectivity of this report. Investors should consider this report as only a single factor in making their investment decision. For Reg AC certi fi cation and other important disclosures, see the Disclosure Appendix, or go to ed as research www.gs.com/research/hedge.html. Analysts employed by non-US a ffi liates are not registered/quali fi analysts with FINRA in the U.S.
+
+## BUY
+
+## Microsoft Corp. (MSFT)
+
+Rating since Jan 21, 2021
+
+| Ratios &Valuation             | 6/25   | __________________________________________ 6/26E   | 6/27E   | 6/28E                                  |
+|-------------------------------|--------|----------------------------------------------------|---------|----------------------------------------|
+| P /E (X)                      | 30.9   | 27.7                                               | 23. 4   | 19.7                                   |
+| EV/EBITDA (X)                 | 19.8   | 17.7                                               | 1 4 . 4 | 11.7                                   |
+| EV/sales (X)                  | 11.0   | 10.1                                               | 8. 4    | 7.0                                    |
+| FCF yiel d (%)                | 2.3    | 2.0                                                | 2.2     | 3.2                                    |
+| EV/DACF (X)                   | 22.0   | 19.2                                               | 15.8    | 12.7                                   |
+| CROCI (%)                     | 29.7   | 29. 4                                              | 28.1    | 28.1                                   |
+| ROE (%)                       | 33.5   | 32.1                                               | 30.2    | 28.6                                   |
+| Net d ebt/EBITDA (X)          | (0.3)  | (0. 4 )                                            | (0. 4 ) | (0.6)                                  |
+| Net d ebt/equity (%)          | (15.8) | (17.2)                                             | (18.5)  | (22.8)                                 |
+| Interest cov er (X)           | N M    | N M                                                | N M     | N M                                    |
+| In v ent o ry d ays           | 4 .5   | 3.6                                                | 3.5     | 3.5                                    |
+| Re c ei v able d ays          | 82.2   | 85.1                                               | 88. 4   | 93.8                                   |
+| Days p ayable o utstan d in g | 103.3  | 105.6                                              | 10 4 .3 | 10 4 .6                                |
+| Growth &Margins (%)           |        |                                                    |         | ______________________________________ |
+|                               | 6/25   | 6/26E                                              | 6/27E   | 6/28E                                  |
+| T otal revenue growth         | 14.9   | 17.4                                               | 19.2    | 17.8                                   |
+| EBITDA growth                 | 20.9   | 20.5                                               | 21.8    | 21.7                                   |
+| EPS growth                    | 16.1   | 21.1                                               | 18.2    | 19.1                                   |
+| DPS growth                    | 10.6   | 9.9                                                | 9.9     | 10.0                                   |
+| Gross margin                  | 68.8   | 67.3                                               | 65.2    | 64.0                                   |
+| EBIT margin                   | 45.6   | 46.0                                               | 45.5    | 45.9                                   |
+
+## Price Performance  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+<!-- image -->
+
+Source: FactSet. Price as of 14 Jan 2026 close.
+
+| Income Statement ($ mn)                 | 6/25          | ___________________________________ 6/26E   | 6/27E          | 6/28E           |
+|-----------------------------------------|---------------|---------------------------------------------|----------------|-----------------|
+| T o t a l r e v e nu e                  | 2 81,724.0    | 330,648.7                                   | 394,135.3      | 464,397.5       |
+| Cost of goods sold                      | (87,831.0)    | (108,155.5)                                 | (137,314.3)    | (167,292.6)     |
+| SG&A                                    | (32,877.0)    | (34,707.2)                                  | (37,784.2)     | (40,310.8)      |
+| R&D                                     | (32,488.0)    | (35,584.4)                                  | (39,854.5)     | (43,840.0)      |
+| Other operating inc./(exp.)             | --            | --                                          | --             | --              |
+| E BITDA                                 | 1 56 , 528 .0 | 1 88 , 5 4 8 .1                             | 22 9, 62 1.9   | 27 9,410. 8     |
+| Depreciation& amortization              | (28,000.0)    | (36,346.5)                                  | (50,439.6)     | (66,456.7)      |
+| E BIT                                   | 1 28 , 528 .0 | 1 52 , 2 01. 6                              | 1 7 9,1 82 .3  | 2 1 2 ,9 5 4.1  |
+| Net interest inc./(exp.)                | --            | --                                          | --             | --              |
+| Income/(loss) from associates           | --            | --                                          | --             | --              |
+| Pre -taxp r ofit                        | 1 2 4,31 5 .0 | 1 5 3,30 6 . 2                              | 1 8 0, 8 44. 6 | 2 1 5 , 5 41. 2 |
+| Provision for taxes                     | (21,960.0)    | (29,368.4)                                  | (34,360.5)     | (40,952.8)      |
+| M inorit y interest                     | --            | --                                          | --             | --              |
+| Preferred dividends                     | --            | --                                          | --             | --              |
+| N e t inc . (p re - e xc e ptionals)    | 10 2 ,3 55 .0 | 1 2 3,93 7 . 8                              | 14 6 ,4 8 4.1  | 1 7 4, 588 .4   |
+| N e t inc . (post- e xc e ptionals)     | 101, 8 3 2 .0 | 1 2 0,041. 8                                | 14 6 ,4 8 4.1  | 1 7 4, 588 .4   |
+| E P S(basic , p re - e xc e pt) ($)     | 13. 77        | 1 6 . 67                                    | 19. 7 0        | 2 3.4 6         |
+| E P S(dilut e d , p re - e xc e pt) ($) | 13. 7 1       | 1 6 . 6 0                                   | 19. 6 1        | 2 3.3 5         |
+| E P S( e x-ESO e xp ., dil . ) ($)      | --            | --                                          | --             | --              |
+| DPS ( $ )                               | 3.24          | 3.56                                        | 3.91           | 4.30            |
+| Div. pa y out ratio ( % )               | 23.5          | 21.4                                        | 19.9           | 18.3            |
+| W td avg shares out. ( b asic) (mn)     | 7,433.8       | 7,434.3                                     | 7,436.8        | 7,442.9         |
+| W td avg shares out. (diluted) (mn)     | 7,467.8       | 7,467.3                                     | 7,469.8        | 7,475.9         |
+
+## Balance Sheet ($ mn)   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+|                                    | 6/25                | 6/26E                                             | 6/27E                 | 6/28E                   |
+|------------------------------------|---------------------|---------------------------------------------------|-----------------------|-------------------------|
+| C a s h& c a sh equiv a lents      | 30,242.0            | 28,096.0                                          | 46,548.3              | 93,376.5                |
+| Accounts receiv a ble              | 69,905.0            | 84,311.0                                          | 106,511.2             | 132,095.8               |
+| Inventory                          | 938.0               | 1,178.6                                           | 1,477.4               | 1,765.4                 |
+| Other current a ssets              | 90,046.0            | 103,620.4                                         | 109,502.7             | 115,859.6               |
+| Tota l current assets              | 191,131.0           | 2 1 7 , 2 0 5 .9                                  | 26 4,039. 6           | 343,09 7 .3             |
+| Net PP&E                           | 229,789.0           | 344,298.6                                         | 463,136.7             | 569,530.6               |
+| Net int a ngibles                  | 142,113.0           | 137,433.0                                         | 134,533.0             | 132,533.0               |
+| Tot a l investments                | 15,405.0            | 11,465.0                                          | 11,465.0              | 11,465.0                |
+| Other long-term a ssets            | 40,565.0            | 48,031.2                                          | 57,307.4              | 67,332.3                |
+| Tota l assets                      | 6 19,003.0          | 758 ,433. 7                                       | 930,4 8 1. 7          | 1,1 2 3,9 58 .3         |
+| Accounts p a y a ble               | 27,724.0            | 34,835.5                                          | 43,667.8              | 52,177.9                |
+| Short-term debt                    | 0.0                 | 0.0                                               | 0.0                   | 0.0                     |
+| Current le a se li a bilities      | --                  | --                                                | --                    | --                      |
+| Other current li a bilities        | 113,494.0           | 128,658.2                                         | 147,709.2             | 169,333.3               |
+| Tota l current l iabi l ities      | 141, 2 1 8 .0       | 1 6 3,493. 6                                      | 191,3 77 .0           | 22 1, 5 11. 2           |
+| Long-term debt                     | 40,152.0            | 27,544.0                                          | 19,712.0              | 11,880.0                |
+| Non-current le a se li a bilities  | 17,437.0            | 17,348.0                                          | 17,348.0              | 17,348.0                |
+| Other long-term li a bilities      | 74,007.0            | 116,974.1                                         | 157,523.7             | 189,963.4               |
+| Tota l l ong-term l iabi l ities   | 134,30 6 .0         | 1 65 ,14 8 . 8                                    | 19 8 , 5 34. 6        | 22 3,90 7 . 8           |
+| Tota l l iabi l ities              | 275 , 52 4.0        | 3 28 , 6 4 2 . 5                                  | 3 8 9,911. 6          | 44 5 ,419.0             |
+| Preferred sh a res                 | --                  | --                                                | --                    | --                      |
+| Tota l common equity               | 343,4 7 9.0         | 4 2 9, 7 91. 2                                    | 5 40, 57 0.1          | 678 , 5 39.3            |
+| M inority interest                 | --                  | --                                                | --                    | --                      |
+| Tota l l iabi l ities &equity      | 6 19,003.0          | 758 ,433. 7                                       | 930,4 8 1. 7          | 1,1 2 3,9 58 .3         |
+| BVPS ($)                           | 46.21               | 57.81                                             | 72.69                 | 91.17                   |
+| Cash Flow ($ mn)                   | 6/25                | ___________________________________________ 6/26E | 6/27E                 | 6/28E                   |
+| Net income                         | 101,832.0           | 120,041.8                                         | 146,484.1             | 174,588.4               |
+| D& A add-back                      | 34,153.0            | 41,178.4                                          | 50,439.6              | 66,456.7                |
+| Minority interest add-back         | --                  | --                                                | --                    | --                      |
+| Net (inc)/dec working capital      | (5,350.0)           | (8,472.8)                                         | (9,106.0)             | (11,354.7)              |
+| Others                             | 5,527.0             | 13,952.5                                          | 14,273.0              | 17,950.2                |
+| Cash flow from o p erations        | 13 6 ,1 62 .0       | 1 66 , 7 00.0                                     | 2 0 2 ,090. 7         | 2 4 7 , 6 40. 6         |
+| Capital expenditures               | (64,551.0)          | (98,892.9)                                        | (125,828.1)           | (138,410.9)             |
+| A cquisitions                      | (5,978.0)           | (578.0)                                           | --                    | --                      |
+| Divestitures                       | --                  | --                                                | --                    | --                      |
+| Others                             | (2,070.0)           | (14,587.0)                                        | --                    | --                      |
+| Cash flow from investing           | ( 72 , 5 99.0)      | (114,0 57 .9)                                     | (1 25 , 828 .1)       | (13 8 ,410.9)           |
+| Dividends paid                     | (24,082.0)          | (26,465.7)                                        | (29,100.4)            | (32,036.9)              |
+| Share issuance/(repurchase)        | (16,364.0)          | (19,729.5)                                        | (20,877.8)            | (22,532.6)              |
+| Inc/(dec) in debt                  | (8,962.0)           | (7,832.0)                                         | (7,832.0)             | (7,832.0)               |
+| Others                             | (2,228.0)           | (761.0)                                           | --                    | --                      |
+| Cash flow from financing           | ( 5 1, 6 3 6 .0)    | ( 5 4, 788 .1)                                    | ( 57 , 8 10. 2 )      | ( 62 ,401. 5 )          |
+| Total cash flow Free cash flow     | 11,9 27 .0 71,611.0 | ( 2 ,14 6 .0) 67,807.1                            | 1 8 ,4 52 .4 76,262.5 | 4 6 , 828 . 2 109,229.7 |
+| Free cash flow per share (basic) ( |                     |                                                   |                       | 14.68                   |
+| $ )                                | 9.63                | 9.12                                              | 10.25                 |                         |
+
+Source: Company data, Goldman Sachs Research estimates.
+
+targets and was within 100bps of their target each year. Relative to the cloud cycle, Microsoft believes it has more of a leadership position in the AI cycle such that it can de fi ne the art of the possible. This includes leveraging deep engineering and operational knowledge of over the years of managing silicon and software layers to deliver such operating discipline, and a team that meets very frequently to with a maniacal focus on capacity decisions and cost levers. Microsoft emphasized that the current AI cycle is characterized by far greater operational urgency and integration across business divisions (Cloud, O ffi ce, etc.). As an example, Microsoft identi fi ed an ine ffi cient element in a model that was more compute-intensive than initially expected and, over the course of a single weekend, delivered an optimization solution that would have otherwise taken 2-3 months in the prior cloud era.
+
+Exhibit 1: We expect AI to ramp materially faster than classic Azure in its early years
+
+<!-- image -->
+
+Source: Company data, Goldman Sachs Global Investment Research
+
+Exhibit 2: We estimate capex across use cases to inform our Azure revenue estimates Estimated GS compute mix
+
+<!-- image -->
+
+Source: Company data, Goldman Sachs Global Investment Research
+
+- 2) The role of LLMs: Microsoft drew parallels between the abstraction of the technology stack in the cloud vs. AI cycle. VMs abstracted hardware and containers abstracted much of the OS, simplifying deployment and improving long-term unit economics. Similarly, Microsoft sees LLMs as the next abstraction layer, abstracting application logic itself. Rather than hard-coding rules and work fl ows, applications are moving toward intent-driven execution, with models handling the reasoning and orchestration. Today, Microsoft believes focus is overly weighted on the absolute higher headline cost of new models (e.g., ChatGPT 5.2 vs. 5.1). However, next generation models are designed in a much more e ffi cient manner with improving token e ffi ciency. Today, the performance bene fi t of new models is passed to end users in almost every instance due to competition. In the future, models may balance between passing cost downs to the end user and delivering margins to shareholders. We believe the key swing factor will be the degree to which LLMs are di ff erentiated vs. commoditized.
+2. Foundry has an opportunity to abstract LLMs: Foundry has an opportunity to n become the abstraction layer for LLMs by sitting between applications and individual models, acting as the arbitrator or control plane for routing, governance, and cost optimization. While AI workloads are compute-intensive today, Microsoft believes that declining token costs, e ffi ciency gains, and model commonality over time will allow a greater share of value to accrue to the platform layers. Eventually, LLM-related COGS and gross margin tax may become de minimus. Currently, Microsoft having IP rights to OpenAI models has allowed the company to incur no
+
+gross margin tax from API calls, which we view as a competitive advantage vs. other software providers.
+
+3) How Microsoft thinks through Azure build out: Microsoft frames Azure build out through a supply-demand lens, with di ff erent monetization pro fi les across workloads. When forecasting, Microsoft buckets commitments by customer size and compute type, noting that GPU-driven AI workloads tend to monetize immediately once capacity comes online, creating step-function growth tied directly to deployment timing. In contrast, traditional CPU and non-AI workloads historically exhibited smoother consumption curves, as supply closely matched demand, and consumption curve was a function of customers progressing from POCs to production over time. For CPU and storage that is now explicitly tied to AI use cases, even these categories are beginning to show lumpier, step-like consumption trends. Even in a supply constrained environment, where Microsoft has some pricing leverage, there are still competitive dynamics at play for the largest customers.
+
+- Mix of training vs. inference: The mix of training vs. inference is an important n determinant of overall consumption patterns. Training workloads tend to be episodic and intensive while inference is more persistent and scales over time. Management noted that there is a large part of the training market that Microsoft does not compete in. Instead, the company is making strategic bets on both training and downstream value creation through inference. As customer use cases and hardware capabilities evolve, workloads will also evolve from their initial use cases. Thus, fungibility is crucial in reducing utilization risk and supporting changing demand pro fi les. The company has already seen cases today where they are able to fl ip capacity from training to inferencing. Microsoft has visibility into whether customers are utilizing GPUs for training or inferencing based on infrastructure-level usage patterns. From initial deployment, the company works with customers not only to optimize GPU usage but also from a networking standpoint.
+- Considerations in a non-supply constraint environment: In an environment where n supply is not constrained, Microsoft would approach Azure capacity planning as a portfolio-level decision rather than a standalone Azure exercise, aggregating demand signals across Azure, M365, D365, internal R&amp;D and model training
+
+Exhibit 3: Training vs. Inference Data Center Considerations
+
+| Training                                                                                                                                                                                              |                                                                                                                                                                                                 | Inference          |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
+| • High-end, dense GPU clusters • Faster turnover as new GPUs improve leading each performance • High sustained utilization to support burst-style training runs                                       | • Mix of GPUs, CPUs, and accelerators • Optimized for cost-per-query rather than FLOPs • Longer depreciation cycles • Utilization varies with traffic, prioritizing responsiveness & throughput | Compute            |
+| • East-West (GPU to GPU) traffic within data center fabric                                                                                                                                            | • North-South (client to server) traffic requires efficient load balancing and caching • Sophisticated workload routing algorithms to minimize latency                                          | Networking         |
+| • Extremely high power density, heavy use of liquid cooling, requiring multi-hundredMW campuses • Grid reliability is critical • High up-front GPU + infrastructure cost amortized over training runs | • Lower power density, can run smaller regional data centers distributed near users for edge cases • Lower capex per site                                                                       | Power/Cooling/Land |
+
+Source: Goldman Sachs Global Investment Research
+
+workloads. There needs to be high conviction across a set of parameters for the company to pursue capacity deployment. Factors that would change this level of con fi dence include: model roadmap, expected customer value, price-performance, performance on Microsoft's hardware, agentic work fl ow adoption, enterprise roadmap for adopting the technology. For the largest customers, this can create step function increases in capacity requirements across regions and SKUs, in which case Microsoft also evaluates regional demand, digital sovereignty requirements, and regulatory constraints.
+
+- Managing build-out and oversupply risk for the long term: Given that many n contracts with frontier model developers are multi year in nature and carry demand uncertainty over extended time horizons, Microsoft mitigates risk by prioritizing fl eet-level fungibility. This approach allows the same infrastructure to support not only external customer workloads but also demand across Microsoft's ecosystem, including M365, Github, Dynamics, and Bing. This fl exibility enables Azure to absorb customer demand variability while preserving utilization, and capital commitments are made selectively to workloads and contracts that align with Microsoft's long-term strategy and economic interests.
+
+Exhibit 4: Microsoft Azure is well positioned to bene fi t from GenAI Azure AI Services revenue
+
+<!-- image -->
+
+Source: Company data, Goldman Sachs Global Investment Research
+
+## 4) BYOC (bring-your-own chip) is not economically attractive for Microsoft:
+
+Management does not view BYOC as economically compelling or strategically advantageous for Microsoft. BYOC silos portions of the infrastructure stack and undermines the core e ffi ciency levers that drive cloud margins: scale purchasing, full-stack integration and end-to-end optimization. Microsoft's margin advantage accrues through optimizing across the data center, power and cooling, networking, and silicon layers, rather than at any single component of the stack. Fragmenting the silicon component thus weakens system-level e ffi ciencies and reduces performance and pricing power. Microsoft acknowledged that in some select cases for the top 2-3 frontier models, it could make sense to shift upfront capital investment and duration risk to the customer. However, for the vast majority of customers, Microsoft's procurement and balance sheet advantages allow it to source and o ff er essentially any required chip architecture (ex. TPUs) or capability without customers bearing upfront chip acquisition costs or complex SLAs. Consistent with this view, Microsoft's recently announced
+
+partnership with Anthropic did not involve a BYOC arrangement. Broadly on o ffl oading the risks of managing silicon to the customer, Microsoft already manages this risk with contract duration and decades of experience managing silicon lifecycles. Further, silicon lifetimes have proven more durable than initially assumed; e.g., Microsoft is able to sell fully-depreciated H100s to new customers.
+
+5) Fungibility underpins Microsoft's infrastructure strategy: Microsoft's infrastructure strategy is anchored to maintaining fungibility for as long as practically possible across demand planning, data center design, and 'late binding' in the supply chain. This concept of fungibility includes deferring design and deployment decisions to the last feasible point in order to preserve fl exibility as demand signals and technology evolve. This principle shaped the company's data center architecture, which has evolved further in the last year. For example, newer designs such as Fairwater employ two-story structures and 3D rack layouts to shorten cable and pipe runs, reducing latency and improving bandwidth between GPUs to maximize performance. More broadly, Microsoft standardizes network fl eet typologies while accommodating both liquid and air cooling, engineering these modes to be operationally similar. Microsoft is willing to accept modest e ffi ciency trade o ff s, such as foregoing incremental performance gains from bespoke cooling or chip-speci fi c designs, in exchange for greater capital agility and fungibility across workloads and silicon.
+
+6) MAI roadmap and OpenAI IP: Microsoft frames MAI as complementary to its strategic partnership with OpenAI. With access to IP generated by OpenAI through 2032 (as of October 2025 agreement), Microsoft's MAI investments will focus on building forked, fi ne-tuned, and specialized variants of OpenAI models using Microsoft's proprietary, domain-speci fi c data, with deep integration across its application ecosystem (e.g., Copilot). Examples thus far include MAI-Voice-1 and MAI-Image-1, purpose-built speech and image models deployed within Copilot and Bing Image Creator. MAI is intended to selectively develop fi rst-party models for targeted workloads and use cases that can drive user engagement, product di ff erentiation, and monetization across Microsoft's portfolio. Investment decisions are anchored in clear business and product outcomes to avoid funding science experiments or research projects.
+
+7) Enterprise AI adoption and the evolution of 'DIY' vs. packaged: Microsoft observed that relative to last year, customer Copilot conversations have moved from a discussion around ROI and 'if' there will be adoption, to a conversation that is more focused on 'when' and to what degree there will be adoption. At the same time, Microsoft noted less uncertainty in its budget conversations, compared to last 4QCY where customers often ended the year with surplus budget to protect against unknown macro factors. Microsoft noted uncertainty is the hardest budget environment to sell into; when budget is good, Microsoft operates from a position of strength; when budget is weak, Microsoft tends to outperform peers because of productivity gains tied to its platform approach.
+
+- Enterprise AI Adoption: Microsoft indicated that enterprise AI adoption is already n broad, with a growing number of customers using AI in some form and accelerating usage intensity within that base. For Copilot speci fi cally, Microsoft sees customers expand deployments from a few hundred to several thousand licenses as familiarity with the product's capabilities increases. Adoption typically follows a
+
+- land-and-expand motion, with customers piloting at smaller scale before broadening usage.
+- On Copilot pricing , Microsoft utilizes a value-based approach that examines n customers' willingness to pay and the incremental value bene fi t relative to existing spend. Management assessed early adoption and usage patterns, initially optimizing for a higher price. To broaden top-of-funnel adoption, Microsoft introduced a lower-priced business SKU at $21 / user, with expectations that pricing SKUs will further diversify over time as use cases mature. Monetization is centered on feature expansion and consumption, with a long-term goal of delivering value that supports pricing above $30 / user. Productivity gains to date have varied by function and use case, with early bene fi ts largely re fl ecting faster task completion rather than immediate cost savings. Internally, Microsoft is seeing the strongest traction in customer support functions, where improvements in time-to-resolution can translate more directly into budget savings.
+- DIY software vs. building on Microsoft's platform: On building agents in house vs. n on Microsoft's platform, Management looks to monetize both approaches and expect them to coexist, though it is too early to determine which share will ultimately be larger. While many customers initially build agents internally, Microsoft believes complexities will compound over time as customers must maintain models, manage updates, and establish reliable connectors. These operational hurdles underpin Microsoft's value proposition, positioning the company as a long-term partner to help customers manage, scale, and sustain AI-driven solutions. Our industry work suggests that the pendulum may began to swing back to packaged software as the ecosystem matures.
+- Updates in GTM: Microsoft's sales incentives for Copilot have shifted from an initial n focus on pricing, to driving deployment and realized value. When launched, customer conversations centered around price and ROI. Microsoft observations suggest that even modest daily usage delivers ROI to justify full license. As adoption broadened beyond early adopters, incentives are now aligned toward accelerating time-to-value. This includes reducing deployment friction with forward deployed engineers (we believe Microsoft's investment here has grown), simplifying complex customer environments, and building greater integration across tools.
+- On Claude Cowork : we have received many questions this week on Anthropic's n
+
+Exhibit 5: Copilot 365 has the potential to be larger than the Commercial Cloud business over time
+
+<!-- image -->
+
+Source: Company data, Goldman Sachs Global Investment Research
+
+launch of Claude Cowork, a version of its Code tool with a user interface designed for non-coders. While Claude Cowork was not available at the time of our December meeting with Microsoft, we believe the question will be to what extent Microsoft can maintain a moat because of its entrenchment in existing knowledge worker work fl ows such that the quality of outputs from Copilot exceed or are di ff erentiated from the quality of outputs from third party tools that may have more surface level integrations into the Microsoft ecosystem.
+
+## Valuation &amp; Key Risks
+
+We maintain our Buy rating and 12-month price target of $655, based on a 32x P/E multiple to Microsoft's SNTM adjusted net income. Key downside risks include: less-than-expected revenue contribution from OpenAI partnership, longer ramp for internal silicon which can limit market share gains or gross margin expansion, greater investments in projects outside of expectations (e.g., non-Azure), key leadership changes, and more meaningful shift to custom software that could negatively impact its applications business.
+
+## Disclosure Appendix
+
+## Reg AC
+
+I, Gabriela Borges, CFA, hereby certify that all of the views expressed in this report accurately re fl ect my personal views about the subject company or companies and its or their securities. I also certify that no part of my compensation was, is or will be, directly or indirectly, related to the speci fi c recommendations or views expressed in this report.
+
+Unless otherwise stated, the individuals listed on the cover page of this report are analysts in Goldman Sachs' Global Investment Research division.
+
+## GS Factor Pro fi le
+
+The Goldman Sachs Factor Pro fi le provides investment context for a stock by comparing key attributes to the market (i.e. our universe of rated stocks) and its sector peers. The four key attributes depicted are: Growth, Financial Returns, Multiple (e.g. valuation) and Integrated (a composite of Growth, Financial Returns and Multiple). Growth, Financial Returns and Multiple are calculated by using normalized ranks for speci fi c metrics for each stock. The normalized ranks for the metrics are then averaged and converted into percentiles for the relevant attribute. The precise calculation of each metric may vary depending on the fi scal year, industry and region, but the standard approach is as follows:
+
+Growth is based on a stock's forward-looking sales growth, EBITDA growth and EPS growth (for fi nancial stocks, only EPS and sales growth), with a higher percentile indicating a higher growth company. Financial Returns is based on a stock's forward-looking ROE, ROCE and CROCI (for fi nancial stocks, only ROE), with a higher percentile indicating a company with higher fi nancial returns. Multiple is based on a stock's forward-looking P/E, P/B, price/dividend (P/D), EV/EBITDA, EV/FCF and EV/Debt Adjusted Cash Flow (DACF) (for fi nancial stocks, only P/E, P/B and P/D), with a higher percentile indicating a stock trading at a higher multiple. The Integrated percentile is calculated as the average of the Growth percentile, Financial Returns percentile and (100% - Multiple percentile).
+
+Financial Returns and Multiple use the Goldman Sachs analyst forecasts at the fi scal year-end at least three quarters in the future. Growth uses inputs for the fi scal year at least seven quarters in the future compared with the year at least three quarters in the future (on a per-share basis for all metrics).
+
+For a more detailed description of how we calculate the GS Factor Pro fi le, please contact your GS representative.
+
+## M&amp;A Rank
+
+Across our global coverage, we examine stocks using an M&amp;A framework, considering both qualitative factors and quantitative factors (which may vary across sectors and regions) to incorporate the potential that certain companies could be acquired. We then assign a M&amp;A rank as a means of scoring companies under our rated coverage from 1 to 3, with 1 representing high (30%-50%) probability of the company becoming an acquisition target, 2 representing medium (15%-30%) probability and 3 representing low (0%-15%) probability. For companies ranked 1 or 2, in line with our standard departmental guidelines we incorporate an M&amp;A component into our target price. M&amp;A rank of 3 is considered immaterial and therefore does not factor into our price target, and may or may not be discussed in research.
+
+## Quantum
+
+Quantum is Goldman Sachs' proprietary database providing access to detailed fi nancial statement histories, forecasts and ratios. It can be used for in-depth analysis of a single company, or to make comparisons between companies in di ff erent sectors and markets.
+
+## Disclosures
+
+The rating(s) for Microsoft Corp. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloud fl are, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snow fl ake Inc., Workday Inc., Zeta Global, Zscaler
+
+## Company-speci fi c regulatory disclosures
+
+The following disclosures relate to relationships between The Goldman Sachs Group, Inc. (with its a ffi liates, 'Goldman Sachs') and companies covered by Goldman Sachs Global Investment Research and referred to in this research.
+
+Goldman Sachs has received compensation for investment banking services in the past 12 months: Microsoft Corp. ($459.38)
+
+Goldman Sachs expects to receive or intends to seek compensation for investment banking services in the next 3 months: Microsoft Corp. ($459.38)
+
+Goldman Sachs has received compensation for non-investment banking services during the past 12 months: Microsoft Corp. ($459.38)
+
+Goldman Sachs had an investment banking services client relationship during the past 12 months with: Microsoft Corp. ($459.38)
+
+Goldman Sachs had a non-investment banking securities-related services client relationship during the past 12 months with: Microsoft Corp. ($459.38)
+
+Goldman Sachs had a non-securities services client relationship during the past 12 months with: Microsoft Corp. ($459.38)
+
+Goldman Sachs makes a market in the securities or derivatives thereof: Microsoft Corp. ($459.38)
+
+## Distribution of ratings/investment banking relationships
+
+Goldman Sachs Investment Research global Equity coverage universe
+
+|        | Rating Distribution   | Rating Distribution   | Rating Distribution   | Investment Banking Relationships   | Investment Banking Relationships   | Investment Banking Relationships   |
+|--------|-----------------------|-----------------------|-----------------------|------------------------------------|------------------------------------|------------------------------------|
+|        | Buy                   | Hold                  | Sell                  | Buy                                | Hold                               | Sell                               |
+| Global | 50%                   | 34%                   | 16%                   | 65%                                | 61%                                | 46%                                |
+
+As of January 1, 2026, Goldman Sachs Global Investment Research had investment ratings on 3,055 equity securities. Goldman Sachs assigns stocks as Buys and Sells on various regional Investment Lists; stocks not so assigned are deemed Neutral. Such assignments equate to Buy, Hold and Sell for the purposes of the above disclosure required by the FINRA Rules. See 'Ratings, Coverage universe and related de fi nitions' below. The Investment Banking Relationships chart re fl ects the percentage of subject companies within each rating category for whom Goldman Sachs has provided investment banking services within the previous twelve months.
+
+## Price target and rating history chart(s)
+
+<!-- image -->
+
+The pricetargets shown should be considered in thecontextofallpriorpublished Goldman Sachs research, which may or may not have included price targets, as wellas developments relating to the company,its industry and financialmarkets.
+
+## Regulatory disclosures
+
+## Disclosures required by United States laws and regulations
+
+See company-speci fi c regulatory disclosures above for any of the following disclosures required as to companies referred to in this report: manager or co-manager in a pending transaction; 1% or other ownership; compensation for certain services; types of client relationships; managed/co-managed public o ff erings in prior periods; directorships; for equity securities, market making and/or specialist role. Goldman Sachs trades or may trade as a principal in debt securities (or in related derivatives) of issuers discussed in this report.
+
+The following are additional required disclosures: Ownership and material con fl icts of interest: Goldman Sachs policy prohibits its analysts, professionals reporting to analysts and members of their households from owning securities of any company in the analyst's area of coverage. Analyst compensation: Analysts are paid in part based on the pro fi tability of Goldman Sachs, which includes investment banking revenues. Analyst as o ffi cer or director: Goldman Sachs policy generally prohibits its analysts, persons reporting to analysts or members of their households from serving as an o ffi cer, director or advisor of any company in the analyst's area of coverage. Non-U.S. Analysts: Non-U.S. analysts may not be associated persons of Goldman Sachs &amp; Co. LLC and therefore may not be subject to FINRA Rule 2241 or FINRA Rule 2242 restrictions on communications with a subject company, public appearances and trading in securities covered by the analysts.
+
+Distribution of ratings: See the distribution of ratings disclosure above. Price chart: See the price chart, with changes of ratings and price targets in prior periods, above, or, if electronic format or if with respect to multiple companies which are the subject of this report, on the Goldman Sachs website at .
+
+## Additional disclosures required under the laws and regulations of jurisdictions other than the United States
+
+The following disclosures are those required by the jurisdiction indicated, except to the extent already made above pursuant to United States laws and regulations. Australia: Goldman Sachs Australia Pty Ltd and its a ffi liates are not authorised deposit-taking institutions (as that term is de fi ned in the Banking Act 1959 (Cth)) in Australia and do not provide banking services, nor carry on a banking business, in Australia. This research, and any access to it, is intended only for 'wholesale clients' within the meaning of the Australian Corporations Act, unless otherwise agreed by Goldman Sachs. In producing research reports, members of Global Investment Research of Goldman Sachs Australia may attend site visits and other meetings hosted by the companies and other entities which are the subject of its research reports. In some instances the costs of such site visits or meetings may be met in part or in whole by the issuers concerned if Goldman Sachs Australia considers it is appropriate and reasonable in the speci fi c circumstances relating to the site visit or meeting. To the extent that the contents of this document contains any fi nancial product advice, it is general advice only and has been prepared by Goldman Sachs without taking into account a client's objectives, fi nancial situation or needs. A client should, before acting on any such advice, consider the appropriateness of the advice having regard to the client's own objectives, fi nancial situation and needs. A copy of certain Goldman Sachs Australia and New Zealand disclosure of interests and a copy of Goldman Sachs' Australian Sell-Side Research Independence Policy Statement are available at: . Brazil: Disclosure information in relation to CVM Resolution n. 20 is available at . Where applicable, the Brazil-registered analyst primarily responsible for the content of this research report, as de fi ned in Article 20 of CVM Resolution n. 20, is the fi rst author named at the beginning of this report, unless indicated otherwise at the end of the text. Canada: This information is being provided to you for information purposes only and is not, and under no circumstances should be construed as, an advertisement, o ff ering or solicitation by Goldman Sachs &amp; Co. LLC for purchasers of securities in Canada to trade in any Canadian security. Goldman Sachs &amp; Co. LLC is not registered as a dealer in any jurisdiction in Canada under applicable Canadian securities laws and generally is not permitted to trade in Canadian securities and may be prohibited from selling certain securities and products in certain jurisdictions in Canada. If you wish to trade in any Canadian securities or other products in Canada please contact Goldman Sachs Canada Inc., an a ffi liate of The Goldman Sachs Group Inc., or another registered Canadian dealer. Hong Kong: Further information on the securities of covered companies referred to in this research may be obtained on request from Goldman Sachs (Asia) L.L.C. India: Further information on the subject company or companies referred to in this research may be obtained from Goldman Sachs (India) Securities Private Limited, Research Analyst - SEBI Registration Number INH000001493, 10th Floor, Ascent-Worli, Sudam Kalu Ahire Marg, Worli, Mumbai-400 025, India, Corporate Identity Number U74140MH2006FTC160634, Phone +91 22 6616 9000, Fax +91 22 6616 9001. Goldman Sachs may bene fi cially own 1% or more of the securities (as such term is de fi ned in clause 2 (h) the Indian Securities Contracts (Regulation) Act, 1956) of the subject company or companies referred to in this research report. Investment in securities market are subject to market risks. Read all the related documents carefully before investing. Registration granted by SEBI and certi fi cation from NISM in no way guarantee performance of the intermediary or provide any assurance of returns to investors. Goldman Sachs (India) Securities Private Limited compliance o ffi cer and investor grievance contact details can be found at:
+
+, and a copy of the annual audit compliance report can be found at this link: . Japan: See below. Korea: This research, and any access to it, is intended only for 'professional investors' within the meaning of the Financial Services and Capital Markets Act, unless otherwise agreed by Goldman Sachs. Further information on the subject company or companies referred to in this research may be obtained from Goldman Sachs (Asia) L.L.C., Seoul Branch. New Zealand: Goldman Sachs New Zealand Limited and its a ffi liates are neither 'registered banks' nor 'deposit takers' (as de fi ned in the Reserve Bank of New Zealand Act 1989) in New Zealand. This research, and any access to it, is intended for
+
+'wholesale clients' (as de fi ned in the Financial Advisers Act 2008) unless otherwise agreed by Goldman Sachs. A copy of certain Goldman Sachs Australia and New Zealand disclosure of interests is available at:
+
+.
+
+Russia: Research reports distributed in the Russian Federation are not advertising as de fi ned in the Russian legislation, but are information and analysis not having product promotion as their main purpose and do not provide appraisal within the meaning of the Russian legislation on appraisal activity. Research reports do not constitute a personalized investment recommendation as de fi ned in Russian laws and regulations, are not addressed to a speci fi c client, and are prepared without analyzing the fi nancial circumstances, investment pro fi les or risk pro fi les of clients. Goldman Sachs assumes no responsibility for any investment decisions that may be taken by a client or any other person based on this research report. Singapore: Goldman Sachs (Singapore) Pte. (Company Number: 198602165W), which is regulated by the Monetary Authority of Singapore, accepts legal responsibility for this research, and should be contacted with respect to any matters arising from, or in connection with, this research. Taiwan: This material is for reference only and must not be reprinted without permission. Investors should carefully consider their own investment risk. Investment results are the responsibility of the individual investor. United Kingdom: Persons who would be categorized as retail clients in the United Kingdom, as such term is de fi ned in the rules of the Financial Conduct Authority, should read this research in conjunction with prior Goldman Sachs research on the covered companies referred to herein and should refer to the risk warnings that have been sent to them by Goldman Sachs International. A copy of these risks warnings, and a glossary of certain fi nancial terms used in this report, are available from Goldman Sachs International on request.
+
+European Union and United Kingdom: Disclosure information in relation to Article 6 (2) of the European Commission Delegated Regulation (EU) (2016/958) supplementing Regulation (EU) No 596/2014 of the European Parliament and of the Council (including as that Delegated Regulation is implemented into United Kingdom domestic law and regulation following the United Kingdom's departure from the European Union and the European Economic Area) with regard to regulatory technical standards for the technical arrangements for objective presentation of investment recommendations or other information recommending or suggesting an investment strategy and for disclosure of particular interests or indications of con fl icts of interest is available at which states the European Policy for Managing Con fl icts of Interest in Connection with Investment Research.
+
+Japan: Goldman Sachs Japan Co., Ltd. is a Financial Instrument Dealer registered with the Kanto Financial Bureau under registration number Kinsho 69, and a member of Japan Securities Dealers Association, Financial Futures Association of Japan Type II Financial Instruments Firms Association, The Investment Trusts Association, Japan, and Japan Investment Advisers Association. Sales and purchase of equities are subject to commission pre-determined with clients plus consumption tax. See company-speci fi c disclosures as to any applicable disclosures required by Japanese stock exchanges, the Japanese Securities Dealers Association or the Japanese Securities Finance Company.
+
+## Ratings, coverage universe and related de fi nitions
+
+Buy (B), Neutral (N), Sell (S) Analysts recommend stocks as Buys or Sells for inclusion on various regional Investment Lists. Being assigned a Buy or Sell on an Investment List is determined by a stock's total return potential relative to its coverage universe. Any stock not assigned as a Buy or a Sell on an Investment List with an active rating (i.e., a  stock that is not Rating Suspended, Not Rated, Early-Stage Biotech, Coverage Suspended or Not Covered), is deemed Neutral. Each region manages Regional Conviction Lists, which are selected from Buy rated stocks on the respective region's Investment Lists and represent investment recommendations focused on the size of the total return potential and/or the likelihood of the realization of the return across their respective areas of coverage.  The addition or removal of stocks from such Conviction Lists are managed by the Investment Review Committee or other designated committee in each respective region and do not represent a change in the analysts' investment rating for such stocks.
+
+Total return potential represents the upside or downside di ff erential between the current share price and the price target, including all paid or anticipated dividends, expected during the time horizon associated with the price target. Price targets are required for all covered stocks. The total return potential, price target and associated time horizon are stated in each report adding or reiterating an Investment List membership.
+
+Coverage Universe: A list of all stocks in each coverage universe is available by primary analyst, stock and coverage universe at
+
+.
+
+Not Rated (NR). The investment rating, target price and earnings estimates (where relevant) are removed pursuant to Goldman Sachs policy when Goldman Sachs is acting in an advisory capacity in a merger or in a strategic transaction involving this company, when there are legal, regulatory or policy constraints due to Goldman Sachs' involvement in a transaction, and in certain other circumstances. Early-Stage Biotech (ES). An investment rating and a target price are not assigned pursuant to Goldman Sachs policy when this company neither has a drug, treatment or medical device that has passed a Phase II clinical trial nor a license to distribute a post-Phase II drug, treatment or medical device. Rating Suspended (RS). Goldman Sachs Research has suspended the investment rating and price target for this stock, because there is not a su ffi cient fundamental basis for determining an investment rating or target price. The previous investment rating and target price, if any, are no longer in e ff ect for this stock and should not be relied upon. Coverage Suspended (CS). Goldman Sachs has suspended coverage of this company. Not Covered (NC). Goldman Sachs does not cover this company.
+
+## Global product; distributing entities
+
+Goldman Sachs Global Investment Research produces and distributes research products for clients of Goldman Sachs on a global basis. Analysts based in Goldman Sachs o ffi ces around the world produce research on industries and companies, and research on macroeconomics, currencies, commodities and portfolio strategy. This research is disseminated in Australia by Goldman Sachs Australia Pty Ltd (ABN 21 006 797 897); in Brazil by Goldman Sachs do Brasil Corretora de Títulos e Valores Mobiliários S.A.; Public Communication Channel Goldman Sachs Brazil: 0800 727 5764 and / or contatogoldmanbrasil@gs.com. Available Weekdays (except holidays), from 9am to 6pm. Canal de Comunicação com o Público Goldman Sachs Brasil: 0800 727 5764 e/ou contatogoldmanbrasil@gs.com. Horário de funcionamento: segunda-feira à sexta-feira (exceto feriados), das 9h às 18h; in Canada by Goldman Sachs &amp; Co. LLC; in Hong Kong by Goldman Sachs (Asia) L.L.C.; in India by Goldman Sachs (India) Securities Private Ltd.; in Japan by Goldman Sachs Japan Co., Ltd.; in the Republic of Korea by Goldman Sachs (Asia) L.L.C., Seoul Branch; in New Zealand by Goldman Sachs New Zealand Limited; in Russia by OOO Goldman Sachs; in Singapore by Goldman Sachs (Singapore) Pte. (Company Number: 198602165W); and in the United States of America by Goldman Sachs &amp; Co. LLC. Goldman Sachs International has approved this research in connection with its distribution in the United Kingdom.
+
+Goldman Sachs International ('GSI'), authorised by the Prudential Regulation Authority ('PRA') and regulated by the Financial Conduct Authority ('FCA') and the PRA, has approved this research in connection with its distribution in the United Kingdom.
+
+European Economic Area: Goldman Sachs Bank Europe SE ('GSBE') is a credit institution incorporated in Germany and, within the Single Supervisory Mechanism, subject to direct prudential supervision by the European Central Bank and in other respects supervised by German Federal Financial Supervisory Authority (Bundesanstalt für Finanzdienstleistungsaufsicht, BaFin) and Deutsche Bundesbank and disseminates research within the European Economic Area.
+
+## General disclosures
+
+This research is for our clients only. Other than disclosures relating to Goldman Sachs, this research is based on current public information that we consider reliable, but we do not represent it is accurate or complete, and it should not be relied on as such. The information, opinions, estimates and forecasts contained herein are as of the date hereof and are subject to change without prior noti fi cation. We seek to update our research as appropriate, but various regulations may prevent us from doing so. Other than certain industry reports published on a periodic basis, the large majority
+
+of reports are published at irregular intervals as appropriate in the analyst's judgment.
+
+Goldman Sachs conducts a global full-service, integrated investment banking, investment management, and brokerage business. We have investment banking and other business relationships with a substantial percentage of the companies covered by Global Investment Research. Goldman Sachs &amp; Co. LLC, the United States broker dealer, is a member of SIPC ( ).
+
+Our salespeople, traders, and other professionals may provide oral or written market commentary or trading strategies to our clients and principal trading desks that re fl ect opinions that are contrary to the opinions expressed in this research. Our asset management area, principal trading desks and investing businesses may make investment decisions that are inconsistent with the recommendations or views expressed in this research.
+
+The analysts named in this report may have from time to time discussed with our clients, including Goldman Sachs salespersons and traders, or may discuss in this report, trading strategies that reference catalysts or events that may have a near-term impact on the market price of the equity securities discussed in this report, which impact may be directionally counter to the analyst's published price target expectations for such stocks. Any such trading strategies are distinct from and do not a ff ect the analyst's fundamental equity rating for such stocks, which rating re fl ects a stock's return potential relative to its coverage universe as described herein.
+
+We and our a ffi liates, o ffi cers, directors, and employees will from time to time have long or short positions in, act as principal in, and buy or sell, the securities or derivatives, if any, referred to in this research, unless otherwise prohibited by regulation or Goldman Sachs policy.
+
+The views attributed to third party presenters at Goldman Sachs arranged conferences, including individuals from other parts of Goldman Sachs, do not necessarily re fl ect those of Global Investment Research and are not an o ffi cial view of Goldman Sachs.
+
+Any third party referenced herein, including any salespeople, traders and other professionals or members of their household, may have positions in the products mentioned that are inconsistent with the views expressed by analysts named in this report.
+
+This research is not an o ff er to sell or the solicitation of an o ff er to buy any security in any jurisdiction where such an o ff er or solicitation would be illegal. It does not constitute a personal recommendation or take into account the particular investment objectives, fi nancial situations, or needs of individual clients. Clients should consider whether any advice or recommendation in this research is suitable for their particular circumstances and, if appropriate, seek professional advice, including tax advice. The price and value of investments referred to in this research and the income from them may fl uctuate. Past performance is not a guide to future performance, future returns are not guaranteed, and a loss of original capital may occur. Fluctuations in exchange rates could have adverse e ff ects on the value or price of, or income derived from, certain investments.
+
+Certain transactions, including those involving futures, options, and other derivatives, give rise to substantial risk and are not suitable for all investors. Investors should review current options and futures disclosure documents which are available from Goldman Sachs sales representatives or at and . Transaction costs may be signi fi cant in option strategies calling for multiple purchase and sales of options such as spreads. Supporting documentation will be supplied upon request.
+
+Di ff ering Levels of Service provided by Global Investment Research: The level and types of services provided to you by Goldman Sachs Global Investment Research may vary as compared to that provided to internal and other external clients of GS, depending on various factors including your individual preferences as to the frequency and manner of receiving communication, your risk pro fi le and investment focus and perspective (e.g., marketwide, sector speci fi c, long term, short term), the size and scope of your overall client relationship with GS, and legal and regulatory constraints. As an example, certain clients may request to receive noti fi cations when research on speci fi c securities is published, and certain clients may request that speci fi c data underlying analysts' fundamental analysis available on our internal client websites be delivered to them electronically through data feeds or otherwise. No change to an analyst's fundamental research views (e.g., ratings, price targets, or material changes to earnings estimates for equity securities), will be communicated to any client prior to inclusion of such information in a research report broadly disseminated through electronic publication to our internal client websites or through other means, as necessary, to all clients who are entitled to receive such reports.
+
+All research reports are disseminated and available to all clients simultaneously through electronic publication to our internal client websites. Not all research content is redistributed to our clients or available to third-party aggregators, nor is Goldman Sachs responsible for the redistribution of our research by third party aggregators. For research, models or other data related to one or more securities, markets or asset classes (including related services) that may be available to you, please contact your GS representative or go to .
+
+Disclosure information is also available at or from Research Compliance, 200 West Street, New York, NY 10282.
+
+## © 2026 Goldman Sachs.
+
+You are permitted to store, display, analyze, modify, reformat, and print the information made available to you via this service only for your own use. You may not resell or reverse engineer this information to calculate or develop any index for disclosure and/or marketing or create any other derivative works or commercial product(s), data or o ff ering(s) without the express written consent of Goldman Sachs. You are not permitted to publish, transmit, or otherwise reproduce this information, in whole or in part, in any format to any third party without the express written consent of Goldman Sachs. This foregoing restriction includes, without limitation, using, extracting, downloading or retrieving this information, in whole or in part, to train or fi netune a machine learning or arti fi cial intelligence system, or to provide or reproduce this information, in whole or in part, as a prompt or input to any such system.

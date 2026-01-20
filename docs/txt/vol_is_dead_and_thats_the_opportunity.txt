@@ -1,0 +1,56 @@
+## ()THEMARKETEAR.COM Livenews,marketanalysis&amp;unbiased commentary
+
+partofZeroHedgePremium
+
+## Cheap options
+
+Options markets are pricing just a ~10% chance that the S&amp;P 500 moves more than ±5% over the next month (14th percentile vs the past five years). One-week SPX implied volatility has dropped below 10%, back to summer-2024 lows. Volatility is suppressed as positioning looks one-sided, but these levels offer an attractive opportunity to add optionality according to MS QDS team - upside or downside.
+
+<!-- image -->
+
+## Low short end
+
+The volatility collapse is most acute at the front end: 2-week implied vols are in the 8th percentile versus the past five years, while 2-year vols sit near historical medians. This reflects near-term complacency, long-term risk awareness, and heavy dealer long gamma (~$15bn per 1%), which is suppressing realized volatility and pulling front-end vols lower, writes MS. Chart two shows the current gamma profile. We need the market to move in order for the "stabilizer" to fade.
+
+<!-- image -->
+
+MS
+
+<!-- image -->
+
+MS QDS
+
+## The stand out hedge
+
+Goldman's derivatives desk: "One hedge that stands out to us is VIX calls / call spread, as institutional funds are now decently net short VIX futures per the latest CFTC data. While not a condition for a VIX spike on its own obviously, it means we should be considering VIX upside again as portfolio insurance. We like call spreads out to Feb or March".
+
+<!-- image -->
+
+GS
+
+## Unsustainable
+
+BofA views the current environment, characterized by 1-month implied correlation in single digits and near historical lows, as unsustainable. History suggests such depressed correlation regimes tend to be short-lived. Against this backdrop, they see value in low-cost, long index volatility hedges, such as VIX call spread collars, particularly given elevated geopolitical risk. While the recent lull in volatility may discourage selling VIX downside, it is notable that the front-month VIX future has not settled below 15 for over a year.
+
+<!-- image -->
+
+BofA
+
+<!-- image -->
+
+## Trades to like
+
+MS QDS lays out their favorite ways to play relatively low volatility (leaving out the more exoitc stuff).
+
+| Trade                  | Specifics                   | Why                                          |
+|------------------------|-----------------------------|----------------------------------------------|
+| Long Gamma (SPX / NDX) | Long 1d-1w ~40△ strangles   | Front-end vol is cheap: pays on market moves |
+| VIX Calls              | Feb VIX 23 calls            | Vol near 5Y lows; strong upside convexity    |
+| SPXPutCalendars        | Buy Feb / Sell Dec 20△ puts | Steep term structure favors long gamma       |
+| IWM Call Spreads       | Feb 270/290 call spreads    | Small-cap vol cheap vs SPX/NDX               |
+
+MS/TME
+
+<!-- image -->
+
+© 2025 The Market Ear

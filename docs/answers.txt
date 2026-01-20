@@ -1,0 +1,36 @@
+--
+- doc: ML_Viewpoint_Jan2026_eComm.pdf
+- query: Hvorfor oppgradere Emerging Markets mens man bør nedgradere International Developed? 
+- answer: Asia-Pacific 80 % av EM marked cap og er bra posisjonert for AI / IT spend
+Vil tjene på svakere dollar
+Attraktiv verdsettelse
+Økt spend i EM
+Mindre EM i Europa vil tjene på EU forsvar / infrastruktur spend
+Negativt for ID:
+EU / UK mangler AI / IT
+Produksjon i EU konkurrerer mot Kina
+UK øker skatter
+Lite å hente på AI spend
+--
+- doc: vol\ is\ dead\ and\ thats\ the\ opportunity.pdf
+- query: The Goldman Sachs derivatives desk like one particular hedge. The reason is that instituional funds are decently net short VIX futures. Which hedge do they suggest? 
+- answer: VIX calls / call spread, februar or mars.
+--
+-- doc: Microsoft\ Corp.\ \(MSFT\)_\ Takeaways\ from\ our\ HQ\ Field\ Trip\ .pdf
+- query: Compared to other American companies covered by Goldman Sachs, of which percentile in the Financial Returns of Microsoft? What about compared to other software companies? 
+Microsoft Corp. (MSFT)_ Takeaways from our HQ Field Trip .pdf
+- answer: Not found yet
+--
+- doc: fed-independence-great-moderation-greenland-011626.pdf .
+- query: Which country is the second largest trading partner of Greenland
+- answer: china
+--
+- doc: HSBC\ -\ 2026\ Silver\ Outlook\(1\).pdf . 
+- query: Which base metal has aided silver in sending silver prices higher?
+- answer: copper
+--
+- doc: ML_Chartbook_Q4_2025_eComm.pdf
+- query: Since 2010, which year shows the largest performance gap between being fully invested and missing the 10 best market days?
+- answer: Hele året: +16%
+Minus de 10 beste dagene: -34 %
+Differanse: 50%
